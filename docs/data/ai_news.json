@@ -1,7 +1,853 @@
 {
-  "updated_at": "2026-08-02 09:54:28 CST",
-  "total": 10066,
+  "updated_at": "2026-08-02 22:23:18 CST",
+  "total": 10160,
   "items": [
+    {
+      "source": "人工智能学家",
+      "title": "邢波:一个成熟的人工智能学者的思考是什么;卫哲:找人比找钱更重要;周鸿祎:论产品,马云不如我;夏尔特:做区块链行业的理想主义者",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd93fA9w5Av03lmmfpoK3RuWd2AWywV6Eb3NdSeZLxE0msf_dUlQDijWH2yykD4yYRJ12HUuds75YcMCfeR_WZB7VB7aQ46s8jZqB02zru_eA3LnZlIrxbYa0dMXMPsysOUpHd9bwFYBgDRWAVylWbXdGtDVC8jfQtWADxxxnQ-8is5eBgmN3LoYQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "暴风前夕:今天,超50位AI顶级学者宣布与制造AI武器的韩国大学断交,3100名谷歌员工抗议五角大楼AI军事项目",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9GJ5jGnM-jRj9Qli4Acc0IOjjGicHfWd3pxBE5eSsDXw-dVXLHF_f8Jx5m71Mj-0Emv51xsYJia2wXcyp5_2S0164UJqbxl3SxDJJMUxVdJGDXS-7z2LrOypDznjUVuhHg87d-aK2bgbcxkh1KORqVuUsZ0tKJ5ScT6qvUB-RSLA5eBgmN3LoYQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "2021 年人工智能全球最具影响力学者榜单 AI 2000 发布",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9xM8xa4ttvqOc2VFXknxn5fQtikjVOy9991znoO-31v7-xmK-ZwsXIBhT0MxKNg8qqZe_3Oxg0QHOXxbjXUDH8YaQD0IB-huqaHVtean-ZFCJtXMr_CWcqN4IvZXVP-XqG55J-eS2lbJlbzU2aTUN9KGllt_2sNh63LluWAA1YmT2CsG6-xMgzQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "对话马骁:当AI可以量产证明,对数学家是好事吗?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9b8el5Mz-_gDR0L4TXXpnRB9AdaLNNIjb_E-l_c9ftYUPDO4XwXgj3ttHJFq30yJN9Mg0RLyH2DAwx1tu8RY55nazP4ut4nttHd1d3WBlN7fOTBLaJT0-lCdJvfh_SDO8uhPoDq_Tb_MzhF4-ZKVWqCBT52AqTkpbZyKlkfDz4va00NVofL2iDw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "当AI物理学家玩起捏脸游戏",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9kjRcvjoZeqCWkfBgrZcY6jRSVtAOCmvkwnc1PJnNhQ7AloTnX50mdrSD5S3v-D4zy7BF_ih0SEMzZjbCgLlVUE41mEGlc11TDXzoX8uibg9PKhZgO6cgqobUClGWcezRLmeermNgB_Cb9CHAKWNwdp7M5VCqdCTLXYe5IgVY1UQC2Qmj7RgGwQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "下一个牛顿会是AI物理学家吗?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9kjRcvjoZeqCWkfBgrZcY6jRSVtAOCmvkwnc1PJnNhQ7AloTnX50mdkVWZElOsgWpHTP2mVWZVeKxwjPDXw3AMVN5V0tTnyeIrla5AZWWM83OXgz8KFiXxWYxii_SAcVyYPEroRy_GTvfWnC757jeLNcwe5eeCTMKyJXOreDaxaSjotuuiAmOIg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "韩国欲研发人工智能武器,遭全球顶尖 AI 学者联名反对",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9xK77QAAOjZWf5ymjQ0GI-nhEJD6QXaGd1vTTf1evPXwtXmcZdwuJTudtjpy2Mut7dOt5U6ot3u8p_jHP63onjoGybpGY0PQyKVMwtDCH2boZXjnQy-GYw8cdqp2-pV7LbYRTM39J7C4XgBlRbeATeqFuLFEIkwjYilGzLu0eWVBj3x9Nw6p-Fg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "2017年全球AI学者权威排行榜重磅发布,涉及七大子领域共700人!DeepTech首款数据产品将涵盖全球数万名人工智能领域学者",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9GJ5jGnM-jRj9Qli4Acc0IOjjGicHfWd3pxBE5eSsDXw-dVXLHF_f8PjsvOCVxeU8kFT5TA_C__Fni-KFNgq0MFMoa5YIcwqG_i1yYAtk24aNwrJ3hVn_qB1D6pbpHStT_rnbIZ_SmTgziRkZe19vrNodrG5OWifS7_TN5c099Y0HpHkoPMgL3A..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "与AI伦理学家聊聊如何让一个机器人做个好人?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9tbd2HFwfnfba6t-VV3SXq4tNNVjW4MMNNFz-UZAtgxW5izfnKXnykHaw2BblHhT4QxGCS0xt4ZRAE3sCG9ytcFWh928-2IuCi1KINuiuQ3JncZh5lWzR04JxNSjaHOv0nJKQ_yrKFbzVXH-APl-IV3RN7sO1lj1e-Utkg2U1uXjdrgozfSg6bw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "人工智能学家",
+      "title": "人工智能学者高庆一:机器提供智能,人提供智慧",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFjQ1vuiAYrOZADUfymOtu5lqXa8Fplpd9vCd6tc-gwwVHomxYkd5Vij0pII9ZdMXkpfn_cgRHU4dmBxQky0QhN4EQeO9y2orYaguyGpNuYVQH66PTdDV_6AZ377BW3D87X_BF9ehW2UivAUajUWxKe0j4S5o8dXJkBYRJbYy0SQ5dQudAitZ4yUFtyfkAJ6LwoUPHPTTgf6889kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E5%AE%B6&amp;token=E6E07A6DD558E2BFB2B4EAA09B1349D9B2CB1E896A6F52D4",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680596
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "【声明】公众号&ldquo;数字生命卡兹克&rdquo;文章不实内容质疑我团队＂割韭菜＂的回应",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd96a-MWTg7Gayn2lGzRLucWxKqe9EK8HsoXs9KVTIKsXXK9RIcRTc6Y_qndF7gpO1qbSRYWtDoKM0u_ngFM-7eCKmGgBL5XZTipOwBwmeonVmrdSc6T7Y3Z9u-XkPebUDJdWYfuDfoA7z7lFlCO_ler9aNzesh9h5DYLhuuCf7S-OjotuuiAmOIg..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "数字生命三杰赋:数字生命卡兹克、秋芝2046、张吕敏",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9hG-rRPEE8RBYZx0wnX4GMcI23GAelDO9goATTbpLCGkFT2Ls75O2Ps4pjh-kjRKAY-aqOoNCQNEMUVCiykH-SObFZmWWPJi1_r4l4s1H7Wyjb21bdfyl0xm7ev155hcmkyZq5IyNJSUu53pqPbLmHbRHm1fG8_89FtmUsOwIPbFQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "图源 @数字生命卡兹克",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9Q6My1-Y15JoKAE4kYro0xnpvxw7vivYviyQeZ5fUQ2YlITpx4CWszIRe3h9mjVkVQw3ASxwXeq_SAlUyXoSx7Ur2uo_WrCZsh2dL3xGa-uqLL8epM8lTsDpuJFB5lV9yl_zzpbI8uKpzAL3LXTFm4vTKamPDDytqBba_i0zJOxthWLv6O878UA..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "数字生命卡兹克今年推过的所有 Skills,我做了份完整清单(附 GitHub 地址)!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9vv23pRrdXCY61WjD4wtfLTQdola2h2abHcnlYqSyKZh1OJCjBEtZVQEbHT2BRyNFz8pq4o9-9xLovcAta7i1n3kAw8sVALzInTGV8F6pyZDmZ9sWoa5ynckjCLRxFHnBw2c7EDlMBwYh1-88gm_3oKWBzZYnZAjg2DRieJ62o5vs46dn8Efgxg..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "这... 花5个晚上用AI自制的《流浪地球3》,郭帆导演表示&ldquo;该来的还是会来...一言难尽&rdquo;-7.GAME",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd96PQq1Y_6fNN3zow8uBwok29gdb-ZYbZ4XRV-6M5HIzBzYYZ_FP2u5mz-TprcfLTSS_kzgCb2lo0UQs5VLphIFrleookUpduAwxXet994uLl0iLCuuY98XPut6booRz2Cjajs398FujMGTuRrnQ9YxMGVTYYtbMIZwvOQ87BWhEVe0WC6Sbi7DA..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "AI时代,为什么我极力推荐你开始写日记?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9tW2BK7_7pPbfNaoC6Q9H-67WRRNBap8HUjFMaGnBfqPN3YZenZaNwcVQc-pU1H3IxXgdjVdRJS12nezxgEkoRY9Ckja4SfGN50yrfQ65BNJgsfPkh2Geo8JEJ47plEkdD_vErtCOUKzTlP6pV0s1vy6Pm1NudJErTxOGdaH7MWYGX_iHL9MadA..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "150万个Clawdbot挤爆了一个AI论坛,而人类只配围观.",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9xM8xa4ttvqOc2VFXknxn5fQtikjVOy9991znoO-31v7-xmK-ZwsXIHP5RNS81YtHLTMo1_-AC4CC-tsUHzeY7Jf6zE6w6Po75V2ZMfS7XxEjz-FkcUMiTTTPmapnYg-ABiX2Dl6gaqRKnzLWGMAgPJCZyWVvAwSV2egiGjnFmgGTJmCU1UgHwQ..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "大模型套壳照妖镜-随机数|42 为啥是生命、宇宙以及一切问题的终极答案?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9THdGNNXy20A7QJgjEU4JDpb2E40UrRKVKwsc6pFDnqyp-DCkCISz6YfL4cp58oiV9-PhRAcgnYsttexrlWsOx7s1tAAQua3i5BRjbcamn094c-WM9k2snVEypk_n4H2aCL7nmGRdBj5Ft7GHpFB60bTyesIts2Jv0fNoZJ7y0rf1AfaFW2DefQ..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "数字生命卡兹克",
+      "title": "数字孪生开发者必看:5位值得关注的AI博主",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFv9nsRpX0gKlADUfymOtu5lqXa8Fplpd9P61GUzxKG3dAW-0WktWuU6q7f1jbunjH4qZy7rlY5OttzNCzIw4S1yPpjJcMCmgjv5kG_GU2xWfJlC9wR6JJpe7nxY4DfXIeh2ZjDG-WBtqFfHrE7h6K-zfBwQx_RSmqjyujoqMdh06Cdv2YYg0rPZZurbd-VMHAp5eguDY198TdrgozfSg6bw..&amp;type=2&amp;query=%E6%95%B0%E5%AD%97%E7%94%9F%E5%91%BD%E5%8D%A1%E5%85%B9%E5%85%8B&amp;token=E6E0600DC842FFA6ACAAF3BA85CD6A7CACF8AC676A6F52D0",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680592
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "李航NSR论文:深度学习NLP的现有优势与未来挑战",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGiMvXY5uyuN8Ce5HJKpM-q0LKOHeTf9w6atvGlPJtvaeRFbWVL1FzL14mnBcESpdWymhSJE6I7CoFnamZEy1Jp-rhQBWv7kUt7dnZW8awEwpt637ugasb8EY-UZGbO56rA..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "深度学习自然语言处理阅读清单",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9eaRKQfKdAY1Asrs_Pp515QRIV9Zl2yLn5jjcEjBqgpEbYPYidLG13Im_f43iK9k828hWJ5hTs7NuxKPj8QsbIVKrWaiim4a_pER2IIr6CdDrBep3Dl8cwQIDLnPwpZfohnls5C1Um19MJFSWSwFPQ6IB9bquHhjMUSNArkp_CxFAe0f8bRARvQ..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "深度 | 一文概述2017年深度学习NLP重大进展与趋势",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGqOdpre-bvMI8iEhHRYAV9AS5wnimNHRkhNFdysjFkP6LuIFwscSHfOMLYhppwZo2rhMcqRXCzZk0fdroZRXIorRL_MtY0Vfqn1D9LP0MzAdZOEKWrkfJ9Kfxjh3za6jWA..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "斯坦福2019年深度学习NLP课程完结",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9m2b3LxK8nLV2X_pgFCXWgXgW4CnRQr7EO9nMli1E4x-EC0HHDIQQQUeS3o68taMR3J6bbkjt8AO6x29qq0b4GNARNXesF8-unKr-kBmGetY7aEmrfK7dCaWblRNIFVxEa_J9n6sK1t5DeWmPGPHRO08YD7gG2V2NCvOCVhKBjIPS-e4Yz84xMA..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "【必读】2019年深度学习、NLP最新十大发展趋势(附报告下载)",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9pVCCCEY94R28VQnQeKd5oUPKHt7y198DPrDoY6qpijZG_A7jPZKre3wdfEeblVVytxOY_ty4jNF0WGbxIk_YrMm8JLvGi3EoyLL34mV6k3TvmgZmxd87IiWKq2CLMrVm0pYQWDUq9Ded4u-MTGJernhhCoh2N47rS61mxtUmSNrvzHZXxeLdyg..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "2017 年回顾:NLP、深度学习与大数据",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9gPyCOjK9rggoNmOOtiI-ljz2-kC63ZclmPHg7uP6sgvntM0nHRGlGZx187fixmVBOQRFKPGIiZpYFfwY2vXO4vInGt1ul0wSwNqMDgP-Oep0X-lTswblasIjMug1n1Rsx3yI62z50EFGsEUjJVXzAhTSqVOplkOqgmO58-eGJCGfxjh3za6jWA..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "历史最全深度学习与NLP核心概念、模型、策略及最新论文整理分享",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd90w2Iy8EjbvT7vltNOKJG0HhvCCDTKUX28yYUvR9Dikve5xZJvZFbTP4QTgcjYkxe8iXtFJfppeYdi8KFVsHRiLNkQDDgjqhljV6O4ggibcNAg9J2E6KmaCEuXUfufSrK9Jc493pkbyfrc5rsCruGE5qSsAillvMmvzIAi9fyfSQY-UZGbO56rA..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "陈丹琦主讲2020课程《深度学习自然语言处理》课程,21讲Follow NLP最新技术",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd9dx6cLHrwbbIH2ByhIrgazUPrPjs0Tpfj3ZN1FtONnpfJLXFMK5mIMguG0dIEI7at8oc6SGJXE0Bn_PPwbmbzo4e9z-8oguL1LOdPfoTln2D4EIvvgeovLAdQsBb1YBVLrQEQ6RCNlXZhMhNoPn_YQyMCzhV7YtYK1RJ7X4qGRZsC2Qmj7RgGwQ..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "深度学习NLP",
+      "title": "【NLP必读】2019年深度学习自然语言处理最新十大发展趋势",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF27z5LFQ3IlpADUfymOtu5lqXa8Fplpd95V0VnD5gyhkiZTgszNUqb03p9O5fjGK7qGd22bkSu1XHArDwakOLqwCY3zQVlDf5E3H8ayR90CNxqmJ40MBG-f-kB1pfGtb8yX5NjYHRY9sX7QkBkD-bwmclABYf2NMeZZZz3_8isJIH_TOzJBCWd9WMm3SPT1J8D0PeAhYUSnLm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0NLP&amp;token=E6E04482BF3588D1DBDA84CDF5F97A73DCAA57B06A6F52CC",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680588
+    },
+    {
+      "source": "差评",
+      "title": "敢把差评印上包装的品牌,我给好评.",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9rGBLq77vwyYJ-H7JjVU4ori5yk6aBv92E5gsQyreOQAg8-Xp3LVriHrEtOxERq8XAmvv2BISTqOgtNkCGWM3wWk3u8YGil92Vy7Ny1zSwbZ949Rn62RESz7WtgvTRDc-0_pJ-1imuCij83brnidE2YHQXUc9AjeRoG2mQmHAIkCAFV_3u-a3OQ..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "这一年里你在差评看到的差评!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdj8pexhyVY2HWVgrFeYQugDlFzSL85FOTBK1Fg-pvVlkkU0_XuLk93LhHWj0baHbrseXoEptS8Zk84q-DgD5by-DlDY37AAfeDwDDTKcVObjfOCW_sTEdq_VTZhn558tYQNU_1hOjO-VfOck4I0lVkVDznFj7_AOloF5kzUnDi4iHyMdsdeG-XwE2cQqGcZi8eBkoQ1I2AXazQOg7bW9Tc1HKwxag-G8DdgP4lhjnnAVu6mpm-ft2EblhgLKZW5IJ3iZqwg0yoRFw.&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "腾讯何以被差评",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9tW2BK7_7pPbfNaoC6Q9H-67WRRNBap8HUjFMaGnBfqPN3YZenZaNwRX23JV7Rmg9j4y_FSBvgc-KWCWjtWhF6Z1JDrQGmsrxxIVJ0x0aITEtrHVpLdPyf5s6n7AR-bt8hmw1L2gAeCzGfmpshmdcj8HOHkHsaihmknDw2ikZOpVj32-j2KiwUw..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "过分!&ldquo;差评&rdquo;敲诈竟成了一份职业!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9bAsj6QpG_sBp8FOriml8UcFNlKBdTkAe03j2SHnpSQbxCmIKheSM6lCwumUc0gLeJfy5VSXz-m7vMhE2h2CqRCx31RJuODlTIUfh1Hk-BqGwsEVnMce4ahLaq3uuGTvaKJ_9YJ9PcJZKXIzUP8j3bC7BZ1jCobT2RS4o3h8INff0OK9DLfgmPA..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "&ldquo;差评!我给差评!别嘚嘚!&rdquo;",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9TCQkeiHsn8fs3vfkVowFnKGJ-g8hfeZAdOSZ9-1ELiCJMFt9uneOMfh1NZxrbg-9IH14IN0yQT3Z07VhrQNn9qqvjcbojpxmzwy3ff4mnSDWPJ_h_uecTL66GUNSyNrjgtNyBqKJ5H6wrBqfycKNI21aMbWo-NSW1pYmOVbslSpFkDr8IT4KYw..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "差评成立六周年,是时候真正打个招呼了.",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9rGBLq77vwyYJ-H7JjVU4ori5yk6aBv92E5gsQyreOQAg8-Xp3LVriCW0YdPvhROWBpMAngfDLCIR8kmHkSxfmysNRJcm32Y_lGLPj__GRBbDRSfkWV4pFxVyZ0_TfFVCLYQTZe-ENt-3EiPlyBQL9Jzx-OYXsWxEHUrfwSxiTjk6Ebq8fk9diw..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "差评",
+      "title": "大家好,我就是差评那名变本加厉的洗稿作者!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFgSSwOEIhWkNADUfymOtu5lqXa8Fplpd9rGBLq77vwyYJ-H7JjVU4ori5yk6aBv92E5gsQyreOQAg8-Xp3LVriELipmDJDp1f62rciPob9McpAh5JT65iK4xLwfZCsnY40YNNtMypCo1AEdnqq2d6vICRhdYGVHISskNF57JIYqLl6icIwO7D8Aiv01Lu6juAlKyq3czHlaxCy6umSSPEsg..&amp;type=2&amp;query=%E5%B7%AE%E8%AF%84&amp;token=E6E014B2F478C29D9096C980B936BFF0918C639C6A6F52C3",
+      "date": "2026-08-02",
+      "time": "08-02 22:23",
+      "timestamp": 1785680580
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "官宣 | AIGC开放社区携手联想拯救者,共同举办第二届OPENAIGC开发者大赛,开启AI落地新纪元",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9INwq0HOIfrvWvOlCM3GEpRuwEfX58Z7JhHeuME-dFuyLv37oQo9seUbLnqKjyxMK-_8KzC3eCSyWNd7YJxQ_XWmI-UxwlwpfY2XX95VLg6L4P4kA6HnVsk9506kJhL_n1IfRWTZbDlC8pOXO7drBOlr4cdERxzlXfj1lr5jZffb0OK9DLfgmPA..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "AIGC开放社区 x Microsoft Build中国黑客松挑战赛决赛战队揭晓,共赴6月16日-6月18日线下决赛!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9INwq0HOIfrvWvOlCM3GEpRuwEfX58Z7JhHeuME-dFuyLv37oQo9sebwd64-Ihx9g9-GJpYHfoB9nAxBNMaGjE1vMmXi7DQQefkqrC5oddr00HEclpoMtR-TOONyn-SFGkpGfTuRHPHd4pBRrxSSo7iNKScDo6aVGc-NiOvM8VILRtmyIGw2VAg..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "【智设AI社区】正式开放!免费为大家提供AIGC相关资源素材,爷爷奶奶看了都想要!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9ZNrYjqW2Mt9iuz1L32NuOUMgR8hcnhm94SkZ-H-x-dJRmPEXkJ4KwnqrpDgudn2ETVOLQyP1dNXXXA0j_qQjBV7Sx57pFPPG3wpM3u_NvZ1NvULAvwgktfi17Ey6hwsiiOvRrrpiqo5lePoe1EAlr4S_B6jSlH6kQYzbeJdbzM3FcvUoAZZH7Q..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "AIGC OPC社区正式揭牌,开启&ldquo;人人用词元&rdquo;的视听创作新时代",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9vmsFGAoSMnyMIWYxP3mehsHs_2rZtS4mbSuf_fL0bVvfLRpJoQM8E5c7ehUbD3qP4HD5-Oy0xj19BgFrlg1gJsdpfQrClCLt5A8me1fNTkMxI8hzcmuK_p-YygcF6t1b5WpHnVaqbK9l7iC4xdphPaOx1jfeeq12CDre-hv7suhj3x9Nw6p-Fg..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "体验 AIGC 魅力!龙蜥社区邀请您从零开始部署运行 GPT-2 大语言模型",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9fJf_y5jWsg0cgjnBt6d1vXDyKzNFFuV4dcHZInysJ1k_q1QZvAsJ0FuBm9EuF1skVRFAJL-nlHZMvEG9B0LySTtc_E98r2sghWoNvLLJOmKZAk-jgjgV9oqmtaWU_Vniic_fPCmZL3yzEi55n_Ea_pG8JmBYUDKSflR7L1cNek9j32-j2KiwUw..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "AIGC产业图谱V1.0(2023年)| AIGC开放社区",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9m9GPOA2ptLJhW27_z0SdgRiRQWigYeuI3uQrpKnHmFA9MPB0c_CECaPs0NNDR-tQTsVV0vZiFvNvNKLZH_JrqCS9-iB6D7tnhv6gls-57Gwvlm_nV6USBXsRe4AmWi3xBd1fFPvV30g6GYU9sO-kU4iEhda497LDF_wQ0i2dR7iq3X8EKMKOIA..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "AIGC在全球社区中的影响:从硅谷到上海",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9uol3KwGuO6yCIEw2AOHLMuf-Qzj_FlEO3U7QwBBQsByjk8yxeLfzBrCXLf5sKOoDklzT5-P07V9-SD4yjXWa9MdJ3eNhYwJ6Eop7N2bS9IL3tZrkz8xXSTSivf2Vuz1RfSFFduxTgvxid6Plj0zUqQReAsjDGBhNtGF6oumnuzCfxjh3za6jWA..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "成都这座OPC社区开园:高校人才开始进入一人公司创业链条",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd94June-xDTXK6iiDjiR9vkYENihXtwUVjE_F0rtn3rY-YdUp6O_DjxO3fYTHOdBJPUdYZtyMTHwFHMNvPn4ECTl65hLx4oJdYwyczEDvKJ47HA79T9P3VCpYAK9Dt7Wxun8OIwNF53gakKI1dSURB4nc6Et4htpivODTwhy0h_fxflztgI7RZ1g..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "一人即可创业!中原首个 AIGC・OPC 创业社区落地郑州,学习 + 工位 + 接单一站式配齐",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9hVk2ZoZ7KTzxawg1c3OtPKiY6hKnphcw7faMO0-mvQf3QbYpE2miEdI9Sj-rFqtsVstiqFkQ88aNPPM_smXrkivVbjk6phc5sRvK2a0201lmsLtX4nhSEPlJKwjIvh6gG19S0gu28qBKLJPW6wCmoOh9tMcOTwhwkD6D_GAsm_hhWLv6O878UA..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "AIGC开放社区",
+      "title": "创新人才生态再升级:金牛区又一OPC创业社区开园",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFCy9Fv63ze4hADUfymOtu5lqXa8Fplpd9fxTMhUmb8vM20PA3lB8loQK6ucI_NfPre5aYRTx-8SatlMPzORIIsSTnAwLP303_teaR3iHBBG-qZpT_LsBKJekpvcbct7LjKLPqPY9IcrgqZFFOgGmhq7TUdzpwmql5cdBpcId2-a2B4CNV3vzaGlvrAFz0L9ktiV2uWRVKwA_s46dn8Efgxg..&amp;type=2&amp;query=AIGC%E5%BC%80%E6%94%BE%E7%A4%BE%E5%8C%BA&amp;token=E6DFEEDF1598217C717729635A3978A2729521496A6F52BD",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680574
+    },
+    {
+      "source": "硅星人",
+      "title": "硅星人邀你参加斯坦福「AI+Future大赛」,重磅评委+20万美元奖励,即刻报名获得内推",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9h0BeFNoR_QHunsRRwMt7ENu9IqtA7hmcXNT26RLqfPIZtLWqukY4vxFz8P0JguL3rbCskG9l27e5NHAXBPneDKfo82ZVjw-uS8h8FN8G1w2s-x0gbSG73dGU5lzAsowG1NTkoWeNsZFORGcIos-x96BciN31OWCTeIGrLR_3DyvRtmyIGw2VAg..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "硅星人需要更多的硅星人!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9h0BeFNoR_QHunsRRwMt7ENu9IqtA7hmcXNT26RLqfPIZtLWqukY4v78pQRaHtWQ3I5dmJINx6ZrnEsxUU4PaSHnig0Zvd_lZxBHplq4W89xtSLX6602WACGBXkSpmEwQ-rMw2K1RzBDwV0q5yZuKVm2jFVOVehSX_Y1ZVosLnEt535pjGOOjYg..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "中影年年| 硅星人与险峰K2VC研讨会聚焦AIGC:中影年年共探数字科技产业智能化",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9X3Ii8U6ibhsKePHB94wYTfBcJ4D1uNMtH4NR4CWEAYizkxgcr5iRxJ3yhz5BR92kanEzTLnmh0oOiNMkWdUBgfCvsv26DIbMnrR1jskmzSCbd4xoaB2Y63g4LgV2SmpD53YPQYh0nGbxrIJl7iu8dAYssp5lnO2HsiTkYYKRwwbI3OTRHYU2og..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "「活动推荐」海淀x硅星人xAI原点社区2026第一场嘉年华来啦~",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9Kq6mK-f48_u_1Ke6qk1oGoRReUBUKnm2oy9X_wgW1-gU6LN5ihV8mREJQVWQItcncq1HUVcCfPN_4T8K8irXUaRkZioSTWGRDmvSyMuGFVTeTRnAm4de8Eolz44s-f32Uc9ZTs1P9UNgcw7sqnhiJhJ9q8qoYLcqp8t-WQiDGQrS-e4Yz84xMA..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "海淀x硅星人x AI原点社区2026第一场嘉年华来啦~",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9g663Qv8w-nt7p942xuZ-3kdItlJZKw_ixWB_QkP5uhtoiq6e3leGmLWWx-QbtAQpBaJexrksROtdagGTKo_Xsc1xKBLwsoD_KKY0havmIMvY5JVKG11M1oCuM6LqQshIn1K4P8SngKvzYO67V8qCdllYFr6fIH6lkczFRBLCnWRe0WC6Sbi7DA..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "AI原点社区*硅星人x清程AI Ping:黑客松5大赛道启动!5天从0到1,赢Mac mini、大疆装备!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9zjLCcdHvCxonFkfHw-wBXmC49RicCqF8oBayDFmkfLfJQ7cswxfE7Re0N0-cI1RxsK-2ZiVeK4Bi7H1N8RoY2-CI-ky6rXeUQbI3fG7j7i-rtwqJC_MRrT4dGJLCvcliUgmj7rxkzUBqUBEZLNJlX0rDe_yUpUIB5cyHY76M5Rry08OLTBhW0A..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "海淀 x 硅星人 x  AI原点社区 2026 第一场 AI 嘉年华来了!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9zd44HtKHZLz8VD13oCPEnm9vErGCR9h9UXbF-ppTlIsLtw81brJYUiA8a8G3SkJm9tScLSF3dUDDi_5miYOzOFDz_im_uX-FSxEgtwvTy3RyI5QyUS63GAJe9IoenNZ5l7-jBG24GgE6PaUhyKwvcqFD9f-CcERu2T27bv5B9tJFH6In5Ei3zg..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "20人死26伤的沃尔玛枪击案,牵出了美国最大的互联网臭水沟....",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9NDIj_eh7c78x0btTkDol-XBZYFj6doP9SO8WWMaa-ThYOvWLzNaGkO6GbYGePhh6Zt6G4g1EXA5TYALWSLmnLHec0rdbbQs_ilKDWlp_Y9doYfgDiOVsgthyxzNMwggcgpblpVM9Q0F0SSfJfT6sBG61bzhfHEcw1rkn1PwFmWPdrgozfSg6bw..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "疯狂的圣诞购物季,疯狂的美国人:为了抢打折商品,连命都不要了",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9cLQ8ZmSGCoe_bKUOtq4_ECP-7LTIlB89YYN1FB8GMNcBsIbRSpnKy-v8i95khrWS7zTVXwqHDGT8lNE_ipBIgj3VnLjuaFX5c4N1mIo2-Z0_Yy1xBSFWQukXzuLWDgAFDIH18AFByEu4p_6Rxz9uLRNs6RppfNL-f4dUS2Q2PqajotuuiAmOIg..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "硅星人",
+      "title": "美籍华人艰难返美回家路:美联航不让登机 有人落地后被关小黑屋",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIF4ucjeYyZpRdADUfymOtu5lqXa8Fplpd9cLQ8ZmSGCoe_bKUOtq4_ECP-7LTIlB89YYN1FB8GMNcBsIbRSpnKyy8WcBYGqXHEISoRxdkD8kdio8cJic7sYTxWi5CffS5VEgrJT5xkdy5jwAofjKkReH8-Ihw6R_bbV5EIac1RmW-Uv8pazUCU5l7IFwRl9zld6R0T4t7qixiAFV_3u-a3OQ..&amp;type=2&amp;query=%E7%A1%85%E6%98%9F%E4%BA%BA&amp;token=E6DFD457A52892CCC1C699D1E9C7F299C1D4FA586A6F52B9",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680569
+    },
+    {
+      "source": "AI科技评论",
+      "title": "CVPR 2018,雷锋网AI科技评论将亲临现场!",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9xK77QAAOjZWf5ymjQ0GI-nhEJD6QXaGd1vTTf1evPXwtXmcZdwuJTm-SFzPC-8aCuULdT872kHSC1M4SbqFVnl3PzpqOM7zZva9jhDxNxSk_0H1JLP3Cm8SYwQ33kjkRjXpia7KHzYMeYZiaE1a5Gq_6VRm_sl_y2cF9dAviFXmjotuuiAmOIg..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "阿里研发支出连续三年登顶; 《MIT科技评论》为阿里AI语音技术点赞;达摩院引入以色列著名计算机视觉科学家 | 周博通",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9_Em8cD9lqTZaeHOI0i7L8FWiWRCzan9qckBkxXOAWDkKcc-cAeLIyzfBahg-ZXwfDeO8vXkQrbanatsoLmkN7MK89xpIqko230m-E1xo9QJHoOmKrOGDzN4a7s19UKdMNhV7bPrfH4nwWlpC5WbBaaK6JBIcKKb1MaLboNUyHDKTJmCU1UgHwQ..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "AI科技评论数据库项目【AI影响因子】:谁在影响你,你在影响谁?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9xK77QAAOjZWf5ymjQ0GI-nhEJD6QXaGd1vTTf1evPXwtXmcZdwuJTqlyv9ICMxa3gGoXHPxAqlviYTxwK1ScrFCheDcplncoiPm1qaR3KefhkakfT81_2muNA6ErUbLY94iUvwy2VL44IcPa_egMI9n6gps0EY6aFiaiyXFDP_8CYioxHkzTmA..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "AI科技评论专访田渊栋:AlphaGo之后,研究智能围棋还有什么意义?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9c_7T-VXBrno5wgoxJtKUt2LCSsWB_RF2lGWBP1l5FPhpUBZ1_NdJo7ivDOt3uzG9Iu2I0Lz3_2XbEN7nM4wvt0jcXGHto1zjvNx6uI3OQiJPfhxSCO6g1tiZL4lYpPCDJnI6vY7Uk-ImmPpJWXd2oH1MgC2fIaUKZwaGB-c1ZT7f3q8uRDTfkw..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "浦江科技评论|普瑞基准:用AI穿透疾病机制",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9oTtX_i1C1Fi6yk_mS7CRP3cGU3T2aR9F-y00dbAqQdfkOnOK9EPPZ0I3v_dEXoHmQRlmXvvE2jLvR3BKnTshD6ek_5Y7qGvYfZu5lUjoehw6As1B7jKzfaKXENoAATVDJ-u3ksJ93opACOqJfKdfHvhQ5Ntl6maoossocEhq2WKFW6cwuUnkdA..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "浦江科技评论|KYA技术:现实与AI间的信任桥梁",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9oTtX_i1C1Fi6yk_mS7CRP3cGU3T2aR9F-y00dbAqQdfkOnOK9EPPZ50F5XZ6dFK1BeXtMVybXP0M-B4tPd8J8ETs-FD9VHH_cOmQyusr-yOq45WIydO3jWNvL10DMpPMY5OmC4KMjK9B8YmPV5jqvIF_Vv_-BKj5sPjpoF2oQ395LU3lqtPw9g..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "独家 | 美团 AI 平台视觉中心负责人魏晓林离职",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd95mq3IQXMBdDQR8tFYqRwkHwYt7_A4v0eQVWHyHU65xiMnvYZFuspXXNcqcSYfyJQuzPY9a4sM3b-TkPKZoyJkM18y7SFEd1ihBve-tTTXc9aGgMr2XUArIhqt3Ze6p90-e8rs3ZJdV3mG1c747jdifV5798cHn36tUWsXY0dxhVhWLv6O878UA..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "前京东 AI 掌门人周伯文也入局 ChatGPT,衔远科技正在招募合伙人",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd95mq3IQXMBdDQR8tFYqRwkHwYt7_A4v0eQVWHyHU65xiMnvYZFuspXS1VSVeoTe_xHwoJZQyd4Wb_BKIlFAEmumAR-siLNwh9d7WyvvTbvwm37lPgy9P5UbQGxgAyz324Dq8iNbzg1kvWvRRVfkMMTRZHZ1ezUmIy569LbNNVtPvvzHZXxeLdyg..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "最后3天!《麻省理工科技评论》中国AI+创业大赛总决赛马上来",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd9GJ5jGnM-jRj9Qli4Acc0IOjjGicHfWd3pxBE5eSsDXw-dVXLHF_f8AEOsyjHPJO1UsPSU_F8gv92yNRUQ0ANJyhAZD2pn7M-fCOWtxHTguYMtoa5MhSWbpyDbpT020AaPoo-wYBpmUlRO0VZCiX_oQSsxd0KtW2QoaP39RxaLYPdrgozfSg6bw..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "AI科技评论",
+      "title": "人工智能驱动科技评价变革的方法与路径",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFAiOSvTO6ZUJADUfymOtu5lqXa8Fplpd95bvKald4z3Tvfqy2Hn3NR2MkYSplrL-lovDrB67YVqk6z3wCR8wfm1_YG4jORJaczmtrIlmvAdLf8y7AdaE3VINiIEhNEFoEPCzCMqCkntDKlvjcr4aJ7mbIXRMLn_PyEabkCDz7hCbdjj2Vc9ccET7yqbIqa9HE45TMBU5VD-zyPfCoem7FzA..&amp;type=2&amp;query=AI%E7%A7%91%E6%8A%80%E8%AF%84%E8%AE%BA&amp;token=E6DFBC385FD26F363B3D632A1BFC26D33C8C20F66A6F52B5",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680565
+    },
+    {
+      "source": "新智元",
+      "title": "新智元火到硅谷了?VC大佬走访中国实验室,爆料长文连夜刷屏",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9pVCCCEY94R28VQnQeKd5oUPKHt7y198DPrDoY6qpijZG_A7jPZKre5gtbqOTRu_xwtbLmW5eKmsDAFi7Rm8tikUrrg9kJuQ-s3uBzolIK8jYLSInt1yTWT-6nEEKTUDwnRZJpCW0O3OqXT-pBBWYvLbpZ9ly67NITaK2uOUd7j5e0WC6Sbi7DA..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "新智元一周年专家寄语(现场直播)",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjGHLbPAFpOWGVgrFeYQugDu5Gn9HD7GSwaBw_FZEVBVqBrMpECY3WVhqzutAOm5tOUp01q7P8Q3ehalpE2K4co5lvGfaIaBQs8_QaLR-fOlF_iKaXE3fb2jh45WZJh2sSLuj-85ztx0ix6NIZJjTDV38qhEaXsuTQAlHMJM_Sd7xOkvhi23lhGL-5Bv0XWv5SmoYtUaLkSR9gFScybVMWCXYZHuv9JLv3HSg5aRY7Rdp7cwBYJ5wjHDInRYtfMrE9iZqwg0yoRFw.&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "【新智元】智能+未来:讯飞超脑最强干货分享 &mdash;&mdash; 胡郁专访",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9g9QW0F_diHzdjd0PP3Sm091Z4woQ80Dz72jeVw6BACvFXSWVnctPC-OAAbCzU5BYTXfCTWzp0pav2OaPBMC6yfm3m_OddJT_GBPehB4D5vMVdOfXJtRJZOeqTzLz15mSjwKSrmpXDdgg647Ka584rI8n9MuSXzkY&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "猎户星空入选新智元AI潜力独角兽 用AI芯片助力打造真有用服务机器人",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9yoAP9r4Ua9RKHakA3WsOfaSF4yr5Y0EinZ1ZtBaQLtdMXaXG_G-mA2kHgdatQfH2KOQV3hQ-s-_Of7GrjSk040WBsCwp_5y9Y5CI7SKF46MGMZ9Egzi8XAOoR9m7i_C9jCPrNYOznWNU7hqH2lK5dh65LZvPGsK8PUp7_ANual4YJSSFPgfogQ..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "新智元 | 科大讯飞2017年度发布会,刘庆峰展示无监督学习成果,胡郁show脑电波控制智能家居",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9g9QW0F_diHzdjd0PP3Sm02AmBFGZegYpldJafIz3xR6ytzOkQOIRgC2qeOtx-5onfzVz9YWImnWKlW_axDbu03KJheFaLUJckycppnWF7pPkaTaNjOea6JAYC4w80begZg1737dHjcoUPlyxdtTpQmYum5qd1pm8zxKuR-deyLG00NVofL2iDw..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "王飞跃答《新智元》人工智能20问",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9oJARA2ALp0w2Yy-d2UFRTM3BvMCAMieJ2lrSvejkZM9jPvAZLqOMn5SuvYhArObNz6f-6_lC4hvLAgVASk_IwXMH9w6Sh83D_iUuwRT5bxRl_dnP8mH21YT_mEIFqQYooe3entCRGSsrxv2c2FMpjYA8Xm1vhnU4xUGYGduCkCns46dn8Efgxg..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "AI独见:新智元十问小i机器人创始人、CEO朱频频博士",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd924AeB25-uAwITiQIwqFPzgiyOOWnIme1qHtXBE6tewpK9Av5VpQjDxyvb2Fr46lMT4YLhTmZbPw_9CYJvt39C6XqqHq07M_haWAXeh-CIupEvbKj3Fvg6S0YLXTL-whl8kc7MMspytMTC6kFETH7o_uzE4FvA3TzxD2BPDQp8F089kyxDwoXvg..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "【新智元3&middot;29峰会嘉宾曝光】诺奖评审x技术领袖详解AI产业跃迁路线图",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFlzgbxYxralxADUfymOtu5lqXa8Fplpd9pVCCCEY94R28VQnQeKd5oUPKHt7y198DPrDoY6qpijZG_A7jPZKre__BXo74JIPOw-3wXYUM3HM_eGoHsKUKps0dhgBAPsU13UgJv_ZYPpEbOsE5pOirZZRg8x0dWfcfRtdYMhd3B2dZnagCsJJtrg53ZXXDqOHoxeGH6aWt4Qc89kyxDwoXvg..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "【新智元100】7 张图看懂美国人工智能产业",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjGHLbPAFpOWGVgrFeYQugDu5Gn9HD7GSwaBw_FZEVBVqBrMpECY3WVhqzutAOm5tOUp01q7P8Q3daIfGtIKJXDY-8rQGFmFlsb4bensL7LgTfWf9Z97jwT1hTtsh8c2K_2JyHwwx5zX8svK-ecviRDNTyS03Gzyo8wEpt7gAmhav4jNvpGRRHO6MDNzRrsetyHDuv6h-jB5Y7Ug4_62U7Ku1M-d9Yisi2xWET8LBJtKM4j2AJyf-6NOCqHbQUZ3isiZqwg0yoRFw.&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "新智元",
+      "title": "【新智元专访】李飞飞:从斯坦福到谷歌云,让 AI 成为计算之魂",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjGHLbPAFpOWGVgrFeYQugDu5Gn9HD7GSwaBw_FZEVBVqBrMpECY3WVhqzutAOm5tOUp01q7P8Q3ehalpE2K4co4SSZ1JYzDQru4rGPjQq7dykwvtbijw5hOo0dKX6qM0VUuj0ENp2hVH5LoCPAITdDjKvVQ55cA3A5YifKWP_OPKHZRWHsHTCRg4UogZ0VB1xwnvXU2nzJc5xkwZlWPwGHxYmgIr4ci_NqTa7F-WacpPunmQDH049p4AytYpNH7tHiZqwg0yoRFw.&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=E6DFA37651DC653836306D2412B2E9CD36462C056A6F52B0",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680561
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心文章库要来了?",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9bJf_4cVK0ytuhFhxdhsABGfgReBRCs-phPDAEKZAz66H5ofj2wzTJr2-UsSvBR7a4JUoQbhKn7pJfGzwElJ_7XCBo8SX8NXV5MhpXtTfBBpz3XFbDxjhhCGm-0EaLRw31ESZ0nntgoSYDYcQYCG3eOLG9HswKrzPzIFep2Nc7Z5OJBjQH7pCxQ..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心GMIS 2017寻找VIP&mdash;&mdash;四大专家签名赠书",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjEMibdToA1haVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MVFCwzHpO7xPdDN-Rv8jYqDuh6p4TFuaNlUpt8QW_t1OBjaUnaQfDa3gSyacRFT7q521Qimgf_IhUArNyzW_OG2Xzd0o5i_O7OBErQlxPwPz-2MMoisxQJhOvmCVKjEBOAZlmvnA7gocSZfG6cma8mBwVcnS_0qEE7hrid56xS5fiZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心年度盘点:2017年人工智能领域度备受关注的科研成果",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGniztjyYXOatABqruLr59YINHVyj6QiIuii-vix8MlJCjayX7Kb31pCGbE7tiLLMJvPuBEfHEHye8Rwqi_jWEoGaquLrUEDvAX3TolgSFgDJkS5pq7WQ0u85eBgmN3LoYQ..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心「AI00」颁奖晚宴闭幕,五月最新榜单发布",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGum_mLKXtRUEBPSbQgSL1vS_OaXCp7yoFoGpPqAYv5pC5MwG6XVz9lMUK9kuSU5nNFHqkmAiS_rD8xeZVax5OAkHHSK-F3nEIwa-7rrAXj8KHHHLPRJCeTDy08OLTBhW0A..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心独家盘点:2016人工智能领域十大焦点回顾",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjEMibdToA1haVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MeqDJK0tlT4e92qEJz2INJeSG40ay86oHHPpdTtZYzN8s69bDfs35LYPioOec7jkrFckD7UAMRgLxT0Fug0ZV2cM6ZrCNyLWMbcL6g-_KULSQchXW4wJumlbbbMDHtvL8ex6LwP_Kgpq1W_hj2-r__yogZIPqHWWVwSc0sESn8u4iZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心走进卡耐基梅隆,专访 CMU Summit 团队",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjEMibdToA1haVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MfVzTRc4VhRxpFgNY10K-tFTEzB2cjVqJKi28ZBeNMD8gIHFYO0TRAG8GT_ReTdCBQOQqLemFlMJujH5gmFLwfOkiift2LbReM6nO84zxQWY5sULmfQSy_1JXYFjJF_hrgO4Ov0-fhD_T5LdHOfw98Z6dnYJXoyy1zTDUIpoj8hpiZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "2016,那些被机器之心记录的人物和公司",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DMjohPW4NTdjEMibdToA1haVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7BW75AjHpMcl5mhlWzPn5B_ymwT1m_N87x8E7b-DrI2UPigCYex3srI8PR3VBKzuRN-Y9m3xY_SqQQQOL5YEjXQ83ns_lFS3jNMVUG98-GGtQYqvS7qD3RW264oBG5dDV-0Xxz7Kr6u7FywAav9sURMfqqkOBnVcttyysPBvnowPpdD5qvQOSX2iZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心「AI00」七月榜单:「AI不止语音助手」的华为",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGlB_tH98HxKq9xXW8w58hCScusOr4NrHCmap7E5ubxPmUva625St9OOmv6V20jQoEjXOKxAl2wPzWl9I88ObkSFFlThKK3bM5OYVgWyn0MUIAFw0Anjy4kpe0WC6Sbi7DA..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心「AI00」十一月榜单:OpenAI科学家创立Embodied Intelligence",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGsBancFqe0uY5SQsIksFwJNgGclMe592oRMX5Uaq2ugURys_CJm7Kg-vSEjbKM2v2LqX-hVW4f7Aj0Q9QI4qGrSh11rgYCaogi6_9Iq7IG5XIt0Cvnl1q7Hf3q8uRDTfkw..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "机器之心",
+      "title": "机器之心开放人工智能专业词汇集(附Github地址)",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFhJ4Khi39BCZADUfymOtu5lqXa8Fplpd9GXu3boGJ1aVfUuJWjsNExcr7Fc08ruOejIG3UrOQbOghBjajRoJYGnBAGl36p9K9BISjUuNGZ5G47a1cdbAHHY9LXegD3k0onwsPoOJqJrIiim0UnWZ-nhUjuv7Pu4lAYjhamjKHiSI558VdVysaEE6Z7-OQPLv1RuZZs09DR6GTJmCU1UgHwQ..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=E6DF89867FF349161B1C420A3D5BC7BB1B3F99D66A6F52AC",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680556
+    },
+    {
+      "source": "量子位",
+      "title": "量子位编辑作者招聘",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9GVfjwI8923oplSlvR-QxRrI1itWHVIz1EtS0PShsVzHYJ5yHbb-gBqL7G_h2mr2T0wJcpd6yapGLaJ8pZIVwDd0h2cuV6fZf1uhDQKJk5TcI8NycWOS4oeB8Wf2ccwTrt-eyt5KfIM5w-d6TjvUC2ozq-QhkDJ9JtcWSwF5IcA_y08OLTBhW0A..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "量子位没有秘诀",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd95592B9lbJJ1U6zrt75TwsOFHWEvTFoO0TZl8bCZReh8pPxO6fAw9nLhfXLh54mSJXj7ke9tU3PINzAA8izKpylxCsu965l5Y1B6teSrKGTH8xbTqal4wlaaOBzIp1GN7uq7V4O-g9jEVRUSKRGKj3M0sWdieKf0WeeDFZi4Lg972CsG6-xMgzQ..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "量子位 | 十问图森未来侯晓迪",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9eNGDqsI9Ahm0B_ycRFbbuDbYrUNDpuVMkblVi4GSSlVg3pQ1RWD8wvKdRDnZEgQLTWW27UBRbUVWB_IRjkpIf5-Y2ZY-70vLaFlRzN9NEXo9I5AQsRRG3YuiUg4JBxlxTlrm0jtS5Fh0ws-NaBxgG8k1aKnzLqKza4DWiv6lNv7I3OTRHYU2og..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "量子位&mdash;国内 AI 媒体龙头深度解析",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9OQMyMJSUXhMf1Za5hT3GIb3MShP8iNVGAsL4CzykgQeZn452VOe77YKxLNF4--GqWCUQAIoo0geTuMZIUe-nAa-lEyG7L2v5vZdwjYPdeoQ-lnG2uL5iq_sDnIjcdZfLMNPYuIPaVm4Tbt-fGe2WgRF9eSPvQZKKMDRpwwQ0LETzAjcIGepUqA..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "量子位MEET大会正式启动!邀AI企业共同预见智能科技新未来",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9GVfjwI8923oplSlvR-QxRrI1itWHVIz1EtS0PShsVzHYJ5yHbb-gBvmwSBgCQtPt0rfj7VhqfjIZjnHVZUTsn72k8ZxFoJ2QMLs2J0y0VVX36dvQHe7OUQihbDF1j5r-psA9F4Eih_B0NgOn62E8RtJCm40_Fju8QUhbaxwylb1FH6In5Ei3zg..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "CNCC明日召开,量子位独家采访报道:张亚勤现在最想做的事",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9f3TPRs4khxfrm7gNa0sl4HM8YSk_b3d1zMZFp3ZkxBeHbfZSKh8g8OojTPvNwxJWWTRu2JtPtpVFTYaRGs-kfWQobRO6FgX_6fXR4fqFDVEXlpcFC35PsKlC26BG_VguQ8XeNiRF66AIQxRV5oMqma02XzxrOnuC1eDAFOnuUJwGX_iHL9MadA..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "双量子位门:实现超快量子计算机的突破",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd97LzZeClwcWM4DYbmMj5ZRYn9nkBtNNZDYOm0ZnEGpZZAUF9tJAhVPtOHR_UQ6_i_WUFocvtxgxjo1QXhvjFxeHayRGeak93BxiCY7xQIhnXeLLuldhlNrjezEhdHNzI0xYtVcFRhMTsAzijpK35QIqb2C3vt1tj1EJ8SPiJD35EtPujwwRB2Pw..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "400万个量子位的&ldquo;量子超算&rdquo;,或许将由一块小小的晶体实现|Science Advances",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9KOxmY0vF0KQ77HpNb2pSFj4c8VDHck8w2Aq_yLLuX0K5FxaAcK8Ym0wc0wiRBmzTFn-Cn_xLv-IJHN-zZ_tvKkVwNJHnoejs6MoRexKZGNW9lmV2KKrsJParnvFDg1H4zQ_I8drDaGwfcxY-VzlHnUBQfUDpkkK1z8UElh_L7ZzwdVqCwyPdzA..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
+    {
+      "source": "量子位",
+      "title": "量子位「MEET 2021智能未来大会」来啦!邀智能科技企业共探明日行业新格局",
+      "desc": "",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4RlRrIjYuIFkNnKvibLNKBADUfymOtu5lqXa8Fplpd9GVfjwI8923oplSlvR-QxRrI1itWHVIz1EtS0PShsVzHYJ5yHbb-gBlTD6CzgPFvpZJ3RzgUIU3_hsIaGABen1dnivbCaGtTrizfzYiLqCFg9i6IHYnBUz2JhJxRHTtclAlVzKcQNEoyGErCNV4RPePR9vk8ZBbvkv-MbNhgao1qAFV_3u-a3OQ..&amp;type=2&amp;query=%E9%87%8F%E5%AD%90%E4%BD%8D&amp;token=E6DF6D1B1F9528767C7D246D5C7C023C7C784B926A6F52A8",
+      "date": "2026-08-02",
+      "time": "08-02 22:22",
+      "timestamp": 1785680552
+    },
     {
       "source": "人工智能学家",
       "title": "邢波:一个成熟的人工智能学者的思考是什么;卫哲:找人比找钱更重要;周鸿祎:论产品,马云不如我;夏尔特:做区块链行业的理想主义者",
