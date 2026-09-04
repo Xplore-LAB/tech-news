@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-generate_daily_report.py — 用 Claude API 汇总近几天新闻，生成日报 JSON
-并推送到飞书群
+generate_daily_report.py — 用 LLM API（自建 llm-proxy → MiniMax，OpenAI 兼容格式）
+汇总近几天新闻，生成日报 JSON 并推送到飞书群
 输出: docs/data/daily_report.json
 """
-import json, os, glob, subprocess, urllib.request, urllib.parse
+import json, os, re, glob, subprocess, urllib.request, urllib.parse
 from datetime import datetime, timezone, timedelta
 
 CST = timezone(timedelta(hours=8))
@@ -12,13 +12,18 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 OUT_FILE  = os.path.join(DATA_DIR, "daily_report.json")
 REPORT_HISTORY_FILE = os.path.join(DATA_DIR, "daily_report_history.json")
 
-CLAUDE_API   = "https://code.newcli.com/claude/aws/v1/messages"
-CLAUDE_KEY   = "sk-ant-oat01-mUp6ez3MzQxiwGXe1GFXLgYoQgX75zGGHvG9G6N6dSSYqxCb2AhtIccqVylRvOWRxlyapmoZvtsVZ2mnc9EiR4rToTTLkAA"
-CLAUDE_MODEL = "claude-sonnet-4-6"
+# LLM：自建 llm-proxy（cpolar 隧道 → 服务器 env 里的真实 MiniMax key）
+# PROXY_KEY 为自编口令、设计上可公开（与 llm-tracker/assets/ai-assistant.js 一致）；
+# llm-proxy 校验 Origin 白名单，必须携带 Origin 头
+LLM_API    = "https://llmapi.vip.cpolar.cn/v1/chat/completions"
+LLM_KEY    = os.environ.get("LLM_PROXY_KEY") or "d117f48efcdcc0fada68718007e444cac633541ef17537c61392dc76f3d33673"
+LLM_ORIGIN = "https://xplore-lab.github.io"
+LLM_MODEL  = os.environ.get("LLM_MODEL") or "MiniMax-M2.5"
 
-FEISHU_APP_ID     = "cli_a92b27739778dbb5"
-FEISHU_APP_SECRET = "5FzzYx5dHhhGuLQSNNtJqdrJl537QMYM"
-FEISHU_CHAT_ID    = "oc_ed38734699d23681b645a2e325627115"
+# 飞书凭据从环境变量注入（GitHub Secrets），不再明文入库
+FEISHU_APP_ID     = os.environ.get("FEISHU_APP_ID") or ""
+FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET") or ""
+FEISHU_CHAT_ID    = os.environ.get("FEISHU_CHAT_ID") or ""
 SITE_URL          = "https://zhaorunrunrun.github.io/tech-news/"
 
 def load_recent_news(days=5):
@@ -95,20 +100,21 @@ def build_prompt(news_items, ai_items):
     ) % (today, news_text, ai_text)
 
 
-def call_claude(prompt):
+def call_llm(prompt):
+    """OpenAI 兼容格式调用自建 llm-proxy（上游 MiniMax）。
+    推理模型输出带 <think>…</think>，剥除后返回正文。"""
     payload = json.dumps({
-        "model": CLAUDE_MODEL,
-        "max_tokens": 4096,
+        "model": LLM_MODEL,
+        "max_tokens": 8192,
         "messages": [{"role": "user", "content": prompt}]
     })
     result = subprocess.run([
-        "curl", "-s", "-X", "POST", CLAUDE_API,
+        "curl", "-s", "-X", "POST", LLM_API,
         "-H", "Content-Type: application/json",
-        "-H", "x-api-key: " + CLAUDE_KEY,
-        "-H", "anthropic-version: 2023-06-01",
-        "-H", "User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
-        "-d", payload, "--max-time", "120",
-    ], stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=130)
+        "-H", "Authorization: Bearer " + LLM_KEY,
+        "-H", "Origin: " + LLM_ORIGIN,
+        "-d", payload, "--max-time", "240",
+    ], stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=250)
     if result.returncode != 0:
         raise RuntimeError("curl failed: %s" % result.stderr.decode())
 
@@ -116,16 +122,20 @@ def call_claude(prompt):
     try:
         resp = json.loads(raw)
     except Exception:
-        # 网关偶发直接返回纯文本错误（如“请求错误(状态码: 500)”）
+        # 网关偶发直接返回纯文本错误（如"请求错误(状态码: 500)"）
         raise RuntimeError("non-json response: %s" % raw[:200])
 
     if "error" in resp:
         raise RuntimeError("API error: %s" % resp["error"])
 
-    content = resp.get("content") or []
-    if not content or not isinstance(content, list):
-        raise RuntimeError("invalid response content")
-    return content[0].get("text", "")
+    choices = resp.get("choices") or []
+    if not choices:
+        raise RuntimeError("invalid response: no choices")
+    content = (choices[0].get("message") or {}).get("content", "")
+    content = re.sub(r"(?s)<think>.*?</think>\s*", "", content).strip()
+    if not content:
+        raise RuntimeError("empty content after stripping <think>")
+    return content
 
 def get_feishu_token():
     payload = json.dumps({"app_id": FEISHU_APP_ID, "app_secret": FEISHU_APP_SECRET}).encode()
@@ -206,9 +216,11 @@ def build_fallback_report(news_items, ai_items, now):
         return prefix + "；".join(items[:5]) + "。"
 
     date_cn = now.strftime("%Y年%m月%d日")
+    # 注意：动态拼接的新闻标题可能含 % 字符，禁止对拼接结果做 % 格式化，
+    # 否则触发 "not enough arguments for format string"（2026-09-04 线上事故根因）
     return (
         "# 科技与时事综合日报\n"
-        "%s\n\n"
+        + date_cn + "\n\n"
         "## 【今日要闻摘要】\n"
         + para(hot, "今日热点整体呈现高波动与高关注并行的特征，核心话题包括：") + "\n"
         + para(intl, "国际面上，主要风险与事件集中在：") + "\n\n"
@@ -226,7 +238,7 @@ def build_fallback_report(news_items, ai_items, now):
         "一条线跟踪国际风险与价格波动，另一条线跟踪国内政策执行和科技产业进展。"
         "在信息噪声较高的环境下，以连续观察替代单点判断，更有助于形成稳定结论。\n"
         "\n参考信源：新华社、人民日报、央视新闻、澎湃新闻、Reuters、Bloomberg、AP、Financial Times"
-    ) % date_cn
+    )
 
 
 def update_report_history(date_str, report_file):
@@ -253,10 +265,10 @@ def main():
     prompt = build_prompt(news_items, ai_items)
     print("  Prompt: %d 字符" % len(prompt))
     try:
-        report_text = call_claude(prompt)
+        report_text = call_llm(prompt)
         print("  日报生成成功，%d 字" % len(report_text))
     except Exception as e:
-        print("[ERROR] Claude API: %s" % e)
+        print("[ERROR] LLM API: %s" % e)
         report_text = build_fallback_report(news_items, ai_items, now)
         print("[INFO] 已切换降级模板生成，%d 字" % len(report_text))
     date_str = now.strftime("%Y-%m-%d")
@@ -279,11 +291,14 @@ def main():
 
     # 仅在显式开启时推送飞书，避免手动调试时误发群消息
     if os.getenv("PUSH_TO_FEISHU", "0") == "1":
-        try:
-            token = get_feishu_token()
-            send_feishu_card(report_text, date_str, token)
-        except Exception as e:
-            print("[WARN] 飞书推送失败: %s" % e)
+        if not (FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_CHAT_ID):
+            print("[WARN] 飞书凭据未配置（FEISHU_APP_ID/SECRET/CHAT_ID），跳过推送")
+        else:
+            try:
+                token = get_feishu_token()
+                send_feishu_card(report_text, date_str, token)
+            except Exception as e:
+                print("[WARN] 飞书推送失败: %s" % e)
     else:
         print("[INFO] 跳过飞书推送（PUSH_TO_FEISHU!=1）")
 
