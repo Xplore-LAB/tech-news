@@ -1,60 +1,15 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04 11:28:50 CST",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 01:10:32 CST",
   "total": 86,
   "categories": {
     "international": [
       {
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "source": "Hacker News",
-        "score": 536,
-        "time": "17:36",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "We're going to need default hard budget caps on pretty much everything",
-        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "source": "Hacker News",
-        "score": 248,
-        "time": "08:20",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "Hole Punch: Sling your spaceship around gravitational fields",
-        "url": "https://notoriousbfg.com/hole-punch/",
-        "source": "Hacker News",
-        "score": 247,
-        "time": "02:06",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "Hacker News",
-        "score": 210,
-        "time": "06:18",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "Bob Cringely Has Died",
+        "title": "Tell HN: Bob Cringely has died",
         "url": "https://news.ycombinator.com/item?id=49949438",
         "source": "Hacker News",
-        "score": 184,
+        "score": 692,
         "time": "08:50",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-        "source": "Hacker News",
-        "score": 178,
-        "time": "02:29",
         "category": "international",
         "desc": ""
       },
@@ -62,53 +17,35 @@
         "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
         "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
         "source": "Hacker News",
-        "score": 167,
+        "score": 401,
         "time": "03:14",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-        "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+        "title": "So you think you could be an electrician?",
+        "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
         "source": "Hacker News",
-        "score": 156,
-        "time": "00:32",
+        "score": 397,
+        "time": "23:43",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "FTL: A new operating system for clouds",
-        "url": "https://ftl-os.org/",
+        "title": "Hole Punch: Sling your spaceship around gravitational fields",
+        "url": "https://notoriousbfg.com/hole-punch/",
         "source": "Hacker News",
-        "score": 154,
-        "time": "23:02",
+        "score": 333,
+        "time": "02:06",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "Reasons I didn't become an EMT, ranked",
-        "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "url": "https://github.com/Niko1221/Strata",
         "source": "Hacker News",
-        "score": 114,
-        "time": "04:49",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "Treachery in the Rodin Museum 3D scan verdict",
-        "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-        "source": "Hacker News",
-        "score": 105,
-        "time": "02:01",
-        "category": "international",
-        "desc": ""
-      },
-      {
-        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-        "url": "https://pipod.dev/",
-        "source": "Hacker News",
-        "score": 81,
-        "time": "03:10",
+        "score": 293,
+        "time": "20:51",
         "category": "international",
         "desc": ""
       },
@@ -116,721 +53,783 @@
         "title": "Agents don't need memory, they need documentation",
         "url": "https://liao.gg/blog/agents-dont-need-memory",
         "source": "Hacker News",
-        "score": 74,
+        "score": 291,
         "time": "01:03",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "New York City should carefully measure a new tree",
-        "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
         "source": "Hacker News",
-        "score": 53,
-        "time": "10:28",
+        "score": 285,
+        "time": "01:44",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "Surely you have ultra-wideband radios on your bins too?",
-        "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+        "title": "Treachery in the Rodin Museum 3D scan verdict",
+        "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
         "source": "Hacker News",
-        "score": 49,
-        "time": "04:27",
+        "score": 272,
+        "time": "02:01",
         "category": "international",
         "desc": ""
       },
       {
-        "title": "DietrichGebert / ponytail",
-        "url": "https://github.com/DietrichGebert/ponytail",
+        "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+        "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+        "source": "Hacker News",
+        "score": 243,
+        "time": "00:32",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "Why don't more developers “use the platform”?",
+        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "source": "Hacker News",
+        "score": 233,
+        "time": "12:10",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "Car is a smartphone on wheels. Here's who's listening",
+        "url": "https://automatictransmission.khoury.northeastern.edu/",
+        "source": "Hacker News",
+        "score": 113,
+        "time": "23:43",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+        "url": "https://niklasroy.com/gtc/",
+        "source": "Hacker News",
+        "score": 102,
+        "time": "14:33",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "url": "https://gamehistory.org/5k-magazines/",
+        "source": "Hacker News",
+        "score": 81,
+        "time": "17:07",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+        "url": "https://github.com/PowderworksCode/headstart",
+        "source": "Hacker News",
+        "score": 75,
+        "time": "14:26",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "url": "https://github.com/allenv0/SCM",
+        "source": "Hacker News",
+        "score": 72,
+        "time": "17:24",
+        "category": "international",
+        "desc": ""
+      },
+      {
+        "title": "tester-army / e2e",
+        "url": "https://github.com/tester-army/e2e",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev"
+        "desc": "Next generation e2e testing framework for web and mobile apps."
       },
       {
         "title": "pbakaus / impeccable",
         "url": "https://github.com/pbakaus/impeccable",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
         "desc": "The design language that makes your AI harness better at design."
       },
       {
-        "title": "affaan-m / ECC",
-        "url": "https://github.com/affaan-m/ECC",
+        "title": "coreyhaines31 / marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research"
+        "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee"
       },
       {
-        "title": "Effect-TS / effect",
-        "url": "https://github.com/Effect-TS/effect",
+        "title": "DietrichGebert / ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
-        "desc": "Build production-ready applications in TypeScript"
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev"
       },
       {
-        "title": "JuliusBrussee / caveman",
-        "url": "https://github.com/JuliusBrussee/caveman",
+        "title": "earthtojake / text-to-cad",
+        "url": "https://github.com/earthtojake/text-to-cad",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
-        "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of"
+        "desc": "Give your agent CAD superpowers."
       },
       {
         "title": "Panniantong / Agent-Reach",
         "url": "https://github.com/Panniantong/Agent-Reach",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
         "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitH"
+      },
+      {
+        "title": "getsentry / sentry",
+        "url": "https://github.com/getsentry/sentry",
+        "source": "GitHub Trending",
+        "score": 0,
+        "time": "2026-10-05",
+        "category": "international",
+        "desc": "Developer-first error tracking and performance monitoring"
+      },
+      {
+        "title": "calesthio / OpenMontage",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "source": "GitHub Trending",
+        "score": 0,
+        "time": "2026-10-05",
+        "category": "international",
+        "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700"
       },
       {
         "title": "pingdotgg / t3code",
         "url": "https://github.com/pingdotgg/t3code",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
-        "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sess"
+        "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
       },
       {
-        "title": "thedotmack / claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
+        "title": "caddyserver / caddy",
+        "url": "https://github.com/caddyserver/caddy",
         "source": "GitHub Trending",
         "score": 0,
-        "time": "2026-10-04",
-        "category": "international",
-        "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent"
-      },
-      {
-        "title": "cloudflare / cloudflare-os",
-        "url": "https://github.com/cloudflare/cloudflare-os",
-        "source": "GitHub Trending",
-        "score": 0,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "international",
         "desc": "Production-grade engineering skills for AI coding agents."
-      },
-      {
-        "title": "addyosmani / agent-skills",
-        "url": "https://github.com/addyosmani/agent-skills",
-        "source": "GitHub Trending",
-        "score": 0,
-        "time": "2026-10-04",
-        "category": "international",
-        "desc": "An agentic skills framework &amp; software development methodology that works."
       }
     ],
     "domestic": [
       {
-        "title": "闲来无事，梳理了下自己最近的 ai 订阅",
-        "url": "https://www.v2ex.com/t/1246264",
+        "title": "感觉程序员行业有点死了",
+        "url": "https://www.v2ex.com/t/1246421",
         "source": "V2EX",
-        "score": 23,
-        "time": "2026-10-04",
+        "score": 36,
+        "time": "2026-10-05",
         "category": "domestic",
         "desc": ""
       },
       {
-        "title": "那个把代码写得亲妈都不认的同事，最后被劝退了🤷‍♂️",
-        "url": "https://juejin.cn/post/7585897699603693594",
-        "source": "掘金",
-        "score": 488,
-        "time": "2026-10-04",
+        "title": "想入个 macmini 做 iOS 开发 16g 够用吗",
+        "url": "https://www.v2ex.com/t/1246403",
+        "source": "V2EX",
+        "score": 25,
+        "time": "2026-10-05",
         "category": "domestic",
-        "desc": "大家好😁。 上上周，我们在例会上送别了团队里的一位技术大牛，阿K。 说实话，阿K 的技术底子很强。他能手写 Webpack 插件，熟读 ECMA 规范，对 Ch"
+        "desc": ""
       },
       {
-        "title": "记录一种很新的大屏开发方式",
-        "url": "https://juejin.cn/post/7687436260063100963",
+        "title": "Ripple：一个现代的响应式 UI 框架",
+        "url": "https://juejin.cn/post/7593261984189153330",
         "source": "掘金",
-        "score": 78,
-        "time": "2026-10-04",
+        "score": 5,
+        "time": "2026-10-05",
         "category": "domestic",
-        "desc": "尝试用AI承接原本交给第三方团队的园区楼宇三维大屏开发：从Revit/IFC模型处理、网页资产与LOD轻量化，到Three.js园区场景、楼层构件交互，再以if"
+        "desc": "AI 时代，更需要精品框架 2026 年，AI 编程已经成为常态。Cursor、Claude、Copilot……开发者每天都在用 AI 生成大量代码。 但这带来"
       },
       {
-        "title": "升级啦！纯前端打包下载离线地图",
-        "url": "https://juejin.cn/post/7671834850672427017",
+        "title": "Vue3 + Element Plus + Vite 企业级后台框架搭建全流程",
+        "url": "https://juejin.cn/post/7649586648073961510",
         "source": "掘金",
-        "score": 90,
-        "time": "2026-10-04",
+        "score": 20,
+        "time": "2026-10-05",
         "category": "domestic",
-        "desc": "之前写了篇文《不用钱！纯前端打包下载离线瓦片地图》，爬取开放的瓦片底图，写入jszip压缩包，进行下载离线瓦片底图。 现在是时候升级一下了，总结了一下常用的一些"
-      },
-      {
-        "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
-        "url": "https://juejin.cn/post/7681286465168769067",
-        "source": "掘金",
-        "score": 48,
-        "time": "2026-10-04",
-        "category": "domestic",
-        "desc": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 从零做一款微信小游戏，需要几个人？ 正常情况下，至少需要： 美术负责界面和游戏素材； 策划负"
-      },
-      {
-        "title": "我用3个周末重构了公司的前端项目，老板没发现，但同事都来找我要代码了",
-        "url": "https://juejin.cn/post/7649211548573925418",
-        "source": "掘金",
-        "score": 75,
-        "time": "2026-10-04",
-        "category": "domestic",
-        "desc": "先声明：重构是在业务空窗期做的，没耽误正常迭代。别学我偷偷干，最好提前报备。 公司项目是个3年前的Vue2后台系统，代码量不大（50多个页面）但\"历史悠久\"——"
-      },
-      {
-        "title": "支持独立部署的地图方案",
-        "url": "https://juejin.cn/post/7682362046578966580",
-        "source": "掘金",
-        "score": 75,
-        "time": "2026-10-04",
-        "category": "domestic",
-        "desc": "我们做城市治理大屏、数字孪生和应急指挥项目时，经常把高德地图 JSAPI 当作默认选择。本文以这份方案和石河子工程的落地结果为基础，讲清楚哪些能力可以自己搭建地"
-      },
-      {
-        "title": "给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？",
-        "url": "https://juejin.cn/post/7687800089250709546",
-        "source": "掘金",
-        "score": 10,
-        "time": "2026-10-04",
-        "category": "domestic",
-        "desc": "去年年会，行政同事拿着一个从网上下载的抽奖 exe 找我，问能不能\"让某个名字更容易抽中\"。我说这个我真做不到——然后打开开发者工具看了一眼，发现中奖名单是前端"
-      },
-      {
-        "title": "程序员都开始懂业务了，产品经理还剩下什么价值？",
-        "url": "https://juejin.cn/post/7684690252645515298",
-        "source": "掘金",
-        "score": 23,
-        "time": "2026-10-04",
-        "category": "domestic",
-        "desc": "2026 年，很多程序员都收到过类似要求： “不要只会写代码，要懂业务。” 这句话其实没毛病。一个不知道用户为什么愿意掏钱、流程为什么这么设计、指标为什么会变的"
+        "desc": "项目写了三个月，目录乱成一锅粥，找个组件要翻半天——问题不在你，在一开始没搭好架子。这篇文章给你一套拿来即用的企业级框架模板。"
       },
       {
         "title": "代码都已经让 AI 写了，为什么有些人却更慌了？",
         "url": "https://juejin.cn/post/7658709899376132131",
         "source": "掘金",
         "score": 5,
-        "time": "2026-10-04",
+        "time": "2026-10-05",
         "category": "domestic",
         "desc": "1.前言讨论：为什么 AI Coding 会让人很慌 最近我在技术群里，看到一个提问，完美诠释了当下 AI 时代绝大多数人的技术焦虑。 提问的是一位产品经理，很"
       },
       {
-        "title": "为什么很多人觉得前端很简单？",
-        "url": "https://juejin.cn/post/7664156897922351110",
+        "title": "Vue3 储能 EMS 前端实战：配置化组件 + MQTT 实时组态 + Element Plus 深度定制",
+        "url": "https://juejin.cn/post/7649977961551446066",
         "source": "掘金",
-        "score": 85,
-        "time": "2026-10-04",
+        "score": 4,
+        "time": "2026-10-05",
         "category": "domestic",
-        "desc": "前端看似简单，实则复杂远超表象。视觉反馈快感掩盖了90%的隐性工作量，包括对抗失控的宿主环境、处理异步竞态灾难和防范内存泄漏。资深工程师用复杂机制伪装出简洁界面"
+        "desc": "Vue3 储能 EMS 前端实战：配置化组件 + MQTT 实时组态 + Element Plus 深度定制 一、前言：为什么这个项目值得写？ 储能能源管理系统"
+      },
+      {
+        "title": "Three.js 做医疗数字孪生：从空场景到可漫游楼层（附最小骨架）",
+        "url": "https://juejin.cn/post/7665014267708407844",
+        "source": "掘金",
+        "score": 0,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "用 Three.js 搭医疗/楼宇数字孪生最小骨架：场景灯光、Orbit 漫游、GLB 可替换，适合投标 Demo，附完整代码。"
+      },
+      {
+        "title": "Vue3 script setup 语法糖最全教程！零基础吃透+项目落地+面试满分",
+        "url": "https://juejin.cn/post/7638257101916028970",
+        "source": "掘金",
+        "score": 0,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "一、前言：什么是 script setup 语法糖？ <script setup> 是 Vue3.2 版本正式推出的编译层语法糖，也是目前 Vue3 企业级项目"
+      },
+      {
+        "title": "全栈项目实战：前端独立开发，不再傻等后端接口",
+        "url": "https://juejin.cn/post/7673017903511715850",
+        "source": "掘金",
+        "score": 13,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "前端开发最痛苦的瞬间是什么？不是样式调不出来，不是状态理不清，而是——后端说“接口明天给”，然后你傻等了一天又一天。 好不容易等到接口好了，联调又是噩梦：字段对"
+      },
+      {
+        "title": "AI写鸿蒙UI：10个跑崩8个，剩下2个看运气",
+        "url": "https://juejin.cn/post/7651917353316761651",
+        "source": "掘金",
+        "score": 1,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "AI写鸿蒙UI：10个跑崩8个，剩下2个看运气 先把结论扔出来，省得你翻半天： 让 AI 写 ArkTS 的核心 UI 组件，10 个里面 8 个跑不起来。剩下"
+      },
+      {
+        "title": "AI Coding：前端UI规范笔记",
+        "url": "https://juejin.cn/post/7651536582278856755",
+        "source": "掘金",
+        "score": 2,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "AI Coding：前端 UI 规范笔记 一、制定 UI 规范 1.1 变量：全局通用 CSS 变量 前端样式的基础就是各种属性的值，统一色彩、字体、间距、边框"
+      },
+      {
+        "title": "Vue 终于杀进终端界！这个开源项目让 CLI 开发像写网页一样简单",
+        "url": "https://juejin.cn/post/7670974075054145588",
+        "source": "掘金",
+        "score": 3,
+        "time": "2026-10-05",
+        "category": "domestic",
+        "desc": "过去几年,如果说前端最熟悉的 UI 开发方式是什么,很多人的答案都是 Vue、React、Svelte。大家早已习惯了组件化、响应式、声明式开发这一整套思路。 "
       }
     ],
     "trending": [
       {
-        "title": "韩国网友不满亚运夺金免兵役",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E4%B8%8D%E6%BB%A1%E4%BA%9A%E8%BF%90%E5%A4%BA%E9%87%91%E5%85%8D%E5%85%B5%E5%BD%B9%23",
+        "title": "超10万份孕妇血样被偷运出境",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8510%E4%B8%87%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E8%A2%AB%E5%81%B7%E8%BF%90%E5%87%BA%E5%A2%83%23",
         "source": "微博热搜",
-        "score": 1419526,
-        "time": "10-04 11:28",
+        "score": 920440,
+        "time": "10-05 01:10",
         "label": "热",
         "category": "trending",
-        "desc": "热度 1,419,526"
+        "desc": "热度 920,440"
       },
       {
-        "title": "亚运会最有价值运动员",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%9C%80%E6%9C%89%E4%BB%B7%E5%80%BC%E8%BF%90%E5%8A%A8%E5%91%98%23",
+        "title": "年轻人开始不买景区冤种三件套了",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E4%B8%8D%E4%B9%B0%E6%99%AF%E5%8C%BA%E5%86%A4%E7%A7%8D%E4%B8%89%E4%BB%B6%E5%A5%97%E4%BA%86%23",
         "source": "微博热搜",
-        "score": 880567,
-        "time": "10-04 11:28",
+        "score": 663053,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 880,567"
+        "desc": "热度 663,053"
       },
       {
-        "title": "用九宫格打开亚运赛场的中国红",
-        "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B9%9D%E5%AE%AB%E6%A0%BC%E6%89%93%E5%BC%80%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23",
+        "title": "中国红闪耀亚运闭幕式",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BA%A2%E9%97%AA%E8%80%80%E4%BA%9A%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%23",
         "source": "微博热搜",
-        "score": 699293,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 699,293"
-      },
-      {
-        "title": "郭晓东淘汰颜安倒二姚琛倒一",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E4%B8%9C%E6%B7%98%E6%B1%B0%E9%A2%9C%E5%AE%89%E5%80%92%E4%BA%8C%E5%A7%9A%E7%90%9B%E5%80%92%E4%B8%80%23",
-        "source": "微博热搜",
-        "score": 418224,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 418,224"
-      },
-      {
-        "title": "亚运会海报",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B5%B7%E6%8A%A5",
-        "source": "微博热搜",
-        "score": 417927,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 417,927"
-      },
-      {
-        "title": "阿根廷7比0布基纳法索",
-        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B77%E6%AF%940%E5%B8%83%E5%9F%BA%E7%BA%B3%E6%B3%95%E7%B4%A2",
-        "source": "微博热搜",
-        "score": 417438,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 417,438"
-      },
-      {
-        "title": "小沈阳夫妇电影为何能实现票房逆袭",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A4%AB%E5%A6%87%E7%94%B5%E5%BD%B1%E4%B8%BA%E4%BD%95%E8%83%BD%E5%AE%9E%E7%8E%B0%E7%A5%A8%E6%88%BF%E9%80%86%E8%A2%AD%23",
-        "source": "微博热搜",
-        "score": 416778,
-        "time": "10-04 11:28",
+        "score": 538584,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 416,778"
+        "desc": "热度 538,584"
       },
       {
-        "title": "数码闲聊站晒安卓旗舰首销周激活量",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E7%A0%81%E9%97%B2%E8%81%8A%E7%AB%99%E6%99%92%E5%AE%89%E5%8D%93%E6%97%97%E8%88%B0%E9%A6%96%E9%94%80%E5%91%A8%E6%BF%80%E6%B4%BB%E9%87%8F%23",
+        "title": "蔡康永现身台独分子竞选会场",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%8E%B0%E8%BA%AB%E5%8F%B0%E7%8B%AC%E5%88%86%E5%AD%90%E7%AB%9E%E9%80%89%E4%BC%9A%E5%9C%BA%23",
         "source": "微博热搜",
-        "score": 416521,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 416,521"
-      },
-      {
-        "title": "詹姆斯场边帮马克西带娃",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%9C%BA%E8%BE%B9%E5%B8%AE%E9%A9%AC%E5%85%8B%E8%A5%BF%E5%B8%A6%E5%A8%83%23",
-        "source": "微博热搜",
-        "score": 415715,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 415,715"
-      },
-      {
-        "title": "中国游客听到China一呼百应",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%90%AC%E5%88%B0China%E4%B8%80%E5%91%BC%E7%99%BE%E5%BA%94%23",
-        "source": "微博热搜",
-        "score": 415522,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 415,522"
-      },
-      {
-        "title": "法国警察逃跑了",
-        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%AD%A6%E5%AF%9F%E9%80%83%E8%B7%91%E4%BA%86",
-        "source": "微博热搜",
-        "score": 414744,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 414,744"
-      },
-      {
-        "title": "张继科复刻王楚钦亚运庆祝动作",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%88%BB%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%9A%E8%BF%90%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%23",
-        "source": "微博热搜",
-        "score": 414463,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 414,463"
-      },
-      {
-        "title": "内耗小姐和万能先生",
-        "url": "https://s.weibo.com/weibo?q=%E5%86%85%E8%80%97%E5%B0%8F%E5%A7%90%E5%92%8C%E4%B8%87%E8%83%BD%E5%85%88%E7%94%9F",
-        "source": "微博热搜",
-        "score": 414006,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 414,006"
-      },
-      {
-        "title": "韩振叫孙千Flora",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%8C%AF%E5%8F%AB%E5%AD%99%E5%8D%83Flora%23",
-        "source": "微博热搜",
-        "score": 334129,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 334,129"
-      },
-      {
-        "title": "Angelababy十年前的迪奥秀场",
-        "url": "https://s.weibo.com/weibo?q=%23Angelababy%E5%8D%81%E5%B9%B4%E5%89%8D%E7%9A%84%E8%BF%AA%E5%A5%A5%E7%A7%80%E5%9C%BA%23",
-        "source": "微博热搜",
-        "score": 292967,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 292,967"
-      },
-      {
-        "title": "上海四十年公寓续期或缴地价七成",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9B%9B%E5%8D%81%E5%B9%B4%E5%85%AC%E5%AF%93%E7%BB%AD%E6%9C%9F%E6%88%96%E7%BC%B4%E5%9C%B0%E4%BB%B7%E4%B8%83%E6%88%90",
-        "source": "微博热搜",
-        "score": 256393,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 256,393"
-      },
-      {
-        "title": "独身女子去世9名亲属继承110余万",
-        "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%BA%AB%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%969%E5%90%8D%E4%BA%B2%E5%B1%9E%E7%BB%A7%E6%89%BF110%E4%BD%99%E4%B8%87%23",
-        "source": "微博热搜",
-        "score": 235567,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 235,567"
-      },
-      {
-        "title": "蔡天凤藏尸地邻居听到电锯声",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%A4%A9%E5%87%A4%E8%97%8F%E5%B0%B8%E5%9C%B0%E9%82%BB%E5%B1%85%E5%90%AC%E5%88%B0%E7%94%B5%E9%94%AF%E5%A3%B0%23",
-        "source": "微博热搜",
-        "score": 201424,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 201,424"
-      },
-      {
-        "title": "亚运会夺奖牌回家也躲不过掰苞米",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%BA%E5%A5%96%E7%89%8C%E5%9B%9E%E5%AE%B6%E4%B9%9F%E8%BA%B2%E4%B8%8D%E8%BF%87%E6%8E%B0%E8%8B%9E%E7%B1%B3%23",
-        "source": "微博热搜",
-        "score": 201252,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 201,252"
-      },
-      {
-        "title": "字母哥热火首秀9分7助攻",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A5%E7%83%AD%E7%81%AB%E9%A6%96%E7%A7%809%E5%88%867%E5%8A%A9%E6%94%BB%23",
-        "source": "微博热搜",
-        "score": 200676,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 200,676"
-      },
-      {
-        "title": "一天上课10小时法国高中生发动罢课",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E4%B8%8A%E8%AF%BE10%E5%B0%8F%E6%97%B6%E6%B3%95%E5%9B%BD%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8F%91%E5%8A%A8%E7%BD%A2%E8%AF%BE",
-        "source": "微博热搜",
-        "score": 200048,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 200,048"
-      },
-      {
-        "title": "法国传出更多破坏视频",
-        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%BC%A0%E5%87%BA%E6%9B%B4%E5%A4%9A%E7%A0%B4%E5%9D%8F%E8%A7%86%E9%A2%91",
-        "source": "微博热搜",
-        "score": 199821,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 199,821"
-      },
-      {
-        "title": "徐良演唱会救活了即将倒闭的面包厂",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%91%E6%B4%BB%E4%BA%86%E5%8D%B3%E5%B0%86%E5%80%92%E9%97%AD%E7%9A%84%E9%9D%A2%E5%8C%85%E5%8E%82%23",
-        "source": "微博热搜",
-        "score": 199268,
-        "time": "10-04 11:28",
+        "score": 523025,
+        "time": "10-05 01:10",
         "label": "热",
         "category": "trending",
-        "desc": "热度 199,268"
+        "desc": "热度 523,025"
       },
       {
-        "title": "难怪老外都说中国人嘴巴毒",
-        "url": "https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E8%80%81%E5%A4%96%E9%83%BD%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%98%B4%E5%B7%B4%E6%AF%92",
+        "title": "康康 EDG",
+        "url": "https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%20EDG",
         "source": "微博热搜",
-        "score": 198702,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 198,702"
-      },
-      {
-        "title": "苹果将为受影响用户免费更换新机",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BA%E5%8F%97%E5%BD%B1%E5%93%8D%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E6%9B%B4%E6%8D%A2%E6%96%B0%E6%9C%BA%23",
-        "source": "微博热搜",
-        "score": 198159,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 198,159"
-      },
-      {
-        "title": "杜翠雀虽然是匪首却已经不清白了",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E7%BF%A0%E9%9B%80%E8%99%BD%E7%84%B6%E6%98%AF%E5%8C%AA%E9%A6%96%E5%8D%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%B8%85%E7%99%BD%E4%BA%86%23",
-        "source": "微博热搜",
-        "score": 197693,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 197,693"
-      },
-      {
-        "title": "给女友发红包没等来回礼男子报警",
-        "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%8F%91%E7%BA%A2%E5%8C%85%E6%B2%A1%E7%AD%89%E6%9D%A5%E5%9B%9E%E7%A4%BC%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%23",
-        "source": "微博热搜",
-        "score": 197464,
-        "time": "10-04 11:28",
+        "score": 439111,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 197,464"
+        "desc": "热度 439,111"
       },
       {
-        "title": "孩子被爸爸压住后伸腿脱身",
-        "url": "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B8%E7%88%B8%E5%8E%8B%E4%BD%8F%E5%90%8E%E4%BC%B8%E8%85%BF%E8%84%B1%E8%BA%AB",
+        "title": "肖战生日",
+        "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%94%9F%E6%97%A5",
         "source": "微博热搜",
-        "score": 197213,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 197,213"
-      },
-      {
-        "title": "刘学义做的菜都是谭松韵爱吃的",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%81%9A%E7%9A%84%E8%8F%9C%E9%83%BD%E6%98%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%88%B1%E5%90%83%E7%9A%84%23",
-        "source": "微博热搜",
-        "score": 159172,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 159,172"
-      },
-      {
-        "title": "毕焜亚运会闭幕式旗手",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%AF%95%E7%84%9C%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%23",
-        "source": "微博热搜",
-        "score": 156038,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 156,038"
-      },
-      {
-        "title": "中国夫妇澳洲车祸身亡国道10年16死",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E6%BE%B3%E6%B4%B2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E5%9B%BD%E9%81%9310%E5%B9%B416%E6%AD%BB%23",
-        "source": "微博热搜",
-        "score": 155249,
-        "time": "10-04 11:28",
+        "score": 434882,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 155,249"
+        "desc": "热度 434,882"
       },
       {
-        "title": "迪士尼当年为啥选上海不选北京",
-        "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BD%93%E5%B9%B4%E4%B8%BA%E5%95%A5%E9%80%89%E4%B8%8A%E6%B5%B7%E4%B8%8D%E9%80%89%E5%8C%97%E4%BA%AC",
+        "title": "崔晋 李勒优",
+        "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%99%8B%20%E6%9D%8E%E5%8B%92%E4%BC%98",
         "source": "微博热搜",
-        "score": 154527,
-        "time": "10-04 11:28",
+        "score": 410963,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 154,527"
+        "desc": "热度 410,963"
       },
       {
-        "title": "李柱延 杨超越",
-        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9F%B1%E5%BB%B6%20%E6%9D%A8%E8%B6%85%E8%B6%8A",
+        "title": "国庆反向旅游迎来新变化",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%E8%BF%8E%E6%9D%A5%E6%96%B0%E5%8F%98%E5%8C%96%23",
         "source": "微博热搜",
-        "score": 153555,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 153,555"
-      },
-      {
-        "title": "女子回应收男友520红包未回礼被报警",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E6%94%B6%E7%94%B7%E5%8F%8B520%E7%BA%A2%E5%8C%85%E6%9C%AA%E5%9B%9E%E7%A4%BC%E8%A2%AB%E6%8A%A5%E8%AD%A6%23",
-        "source": "微博热搜",
-        "score": 152025,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 152,025"
-      },
-      {
-        "title": "陈妍希晒与明星同框合照",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%99%92%E4%B8%8E%E6%98%8E%E6%98%9F%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23",
-        "source": "微博热搜",
-        "score": 149621,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 149,621"
-      },
-      {
-        "title": "1日心疼4日笑醒7日哭惨",
-        "url": "https://s.weibo.com/weibo?q=%231%E6%97%A5%E5%BF%83%E7%96%BC4%E6%97%A5%E7%AC%91%E9%86%927%E6%97%A5%E5%93%AD%E6%83%A8%23",
-        "source": "微博热搜",
-        "score": 146211,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 146,211"
-      },
-      {
-        "title": "妹妹不用密码解锁平板惊呆哥哥",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E4%B8%8D%E7%94%A8%E5%AF%86%E7%A0%81%E8%A7%A3%E9%94%81%E5%B9%B3%E6%9D%BF%E6%83%8A%E5%91%86%E5%93%A5%E5%93%A5%23",
-        "source": "微博热搜",
-        "score": 145569,
-        "time": "10-04 11:28",
+        "score": 385296,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 145,569"
+        "desc": "热度 385,296"
       },
       {
-        "title": "亲戚不帮忙可能因为你拎不清",
-        "url": "https://s.weibo.com/weibo?q=%E4%BA%B2%E6%88%9A%E4%B8%8D%E5%B8%AE%E5%BF%99%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%8B%8E%E4%B8%8D%E6%B8%85",
+        "title": "李勒优说没有一个地方是属于我的归属",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E8%AF%B4%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%BD%92%E5%B1%9E%23",
         "source": "微博热搜",
-        "score": 140644,
-        "time": "10-04 11:28",
+        "score": 361551,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 140,644"
+        "desc": "热度 361,551"
       },
       {
-        "title": "披荆斩棘史上最贵的男人",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E7%9A%84%E7%94%B7%E4%BA%BA%23",
+        "title": "兰香如故我妻子竟然是我妻子",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%88%91%E5%A6%BB%E5%AD%90%E7%AB%9F%E7%84%B6%E6%98%AF%E6%88%91%E5%A6%BB%E5%AD%90%23",
         "source": "微博热搜",
-        "score": 132665,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 132,665"
-      },
-      {
-        "title": "魏大勋因为两天就够卖了",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9B%A0%E4%B8%BA%E4%B8%A4%E5%A4%A9%E5%B0%B1%E5%A4%9F%E5%8D%96%E4%BA%86%23",
-        "source": "微博热搜",
-        "score": 116786,
-        "time": "10-04 11:28",
-        "label": "",
-        "category": "trending",
-        "desc": "热度 116,786"
-      },
-      {
-        "title": "胡塞武装称袭击沙特首都石油设施",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD%23",
-        "source": "微博热搜",
-        "score": 115378,
-        "time": "10-04 11:28",
+        "score": 360314,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 115,378"
+        "desc": "热度 360,314"
       },
       {
-        "title": "鞠婧祎 快拜拜和我说一下拜拜",
-        "url": "https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%BF%AB%E6%8B%9C%E6%8B%9C%E5%92%8C%E6%88%91%E8%AF%B4%E4%B8%80%E4%B8%8B%E6%8B%9C%E6%8B%9C",
+        "title": "蔡康永 零跑汽车",
+        "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8%20%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6",
         "source": "微博热搜",
-        "score": 114280,
-        "time": "10-04 11:28",
-        "label": "新",
+        "score": 358751,
+        "time": "10-05 01:10",
+        "label": "热",
         "category": "trending",
-        "desc": "热度 114,280"
+        "desc": "热度 358,751"
       },
       {
-        "title": "姑娘被石墩挡住后操作勇猛",
-        "url": "https://s.weibo.com/weibo?q=%E5%A7%91%E5%A8%98%E8%A2%AB%E7%9F%B3%E5%A2%A9%E6%8C%A1%E4%BD%8F%E5%90%8E%E6%93%8D%E4%BD%9C%E5%8B%87%E7%8C%9B",
+        "title": "蔡康永",
+        "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8",
         "source": "微博热搜",
-        "score": 113929,
-        "time": "10-04 11:28",
+        "score": 357428,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 113,929"
+        "desc": "热度 357,428"
       },
       {
-        "title": "不要和自己差距太大的人做朋友",
-        "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%92%8C%E8%87%AA%E5%B7%B1%E5%B7%AE%E8%B7%9D%E5%A4%AA%E5%A4%A7%E7%9A%84%E4%BA%BA%E5%81%9A%E6%9C%8B%E5%8F%8B",
+        "title": "肖战35岁写真",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%9835%E5%B2%81%E5%86%99%E7%9C%9F%23",
         "source": "微博热搜",
-        "score": 112575,
-        "time": "10-04 11:28",
+        "score": 356036,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 112,575"
+        "desc": "热度 356,036"
       },
       {
-        "title": "张凌赫刺棠脸上脖子上都有唇印",
-        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E8%84%B8%E4%B8%8A%E8%84%96%E5%AD%90%E4%B8%8A%E9%83%BD%E6%9C%89%E5%94%87%E5%8D%B0",
+        "title": "女特警礼貌拒绝老外过于热情的动作",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%89%B9%E8%AD%A6%E7%A4%BC%E8%B2%8C%E6%8B%92%E7%BB%9D%E8%80%81%E5%A4%96%E8%BF%87%E4%BA%8E%E7%83%AD%E6%83%85%E7%9A%84%E5%8A%A8%E4%BD%9C",
         "source": "微博热搜",
-        "score": 111897,
-        "time": "10-04 11:28",
+        "score": 355401,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 111,897"
+        "desc": "热度 355,401"
       },
       {
-        "title": "王一博LACOSTE大秀预热",
-        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9ALACOSTE%E5%A4%A7%E7%A7%80%E9%A2%84%E7%83%AD",
+        "title": "任嘉伦 红果短剧",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%20%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7",
         "source": "微博热搜",
-        "score": 104978,
-        "time": "10-04 11:28",
+        "score": 257353,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 104,978"
+        "desc": "热度 257,353"
       },
       {
-        "title": "肖战夜景生日大屏",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%9C%E6%99%AF%E7%94%9F%E6%97%A5%E5%A4%A7%E5%B1%8F%23",
+        "title": "胖东来被指招聘性别歧视",
+        "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%A2%AB%E6%8C%87%E6%8B%9B%E8%81%98%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86",
         "source": "微博热搜",
-        "score": 104850,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 104,850"
-      },
-      {
-        "title": "郑钦文vs布兹科娃",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%B8%83%E5%85%B9%E7%A7%91%E5%A8%83%23",
-        "source": "微博热搜",
-        "score": 104053,
-        "time": "10-04 11:28",
-        "label": "新",
-        "category": "trending",
-        "desc": "热度 104,053"
-      },
-      {
-        "title": "葡萄牙官方晒B费谈C罗视频",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%AE%98%E6%96%B9%E6%99%92B%E8%B4%B9%E8%B0%88C%E7%BD%97%E8%A7%86%E9%A2%91%23",
-        "source": "微博热搜",
-        "score": 102587,
-        "time": "10-04 11:28",
+        "score": 212449,
+        "time": "10-05 01:10",
         "label": "",
         "category": "trending",
-        "desc": "热度 102,587"
+        "desc": "热度 212,449"
       },
       {
-        "title": "曾辉五公组队",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E4%BA%94%E5%85%AC%E7%BB%84%E9%98%9F%23",
+        "title": "王祖贤大粉脱粉",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E5%A4%A7%E7%B2%89%E8%84%B1%E7%B2%89%23",
         "source": "微博热搜",
-        "score": 102412,
-        "time": "10-04 11:28",
+        "score": 193393,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 193,393"
+      },
+      {
+        "title": "国庆景区热度前10被小城包揽",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%99%AF%E5%8C%BA%E7%83%AD%E5%BA%A6%E5%89%8D10%E8%A2%AB%E5%B0%8F%E5%9F%8E%E5%8C%85%E6%8F%BD%23",
+        "source": "微博热搜",
+        "score": 179461,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 179,461"
+      },
+      {
+        "title": "带小孩不要坐商务座",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%B0%8F%E5%AD%A9%E4%B8%8D%E8%A6%81%E5%9D%90%E5%95%86%E5%8A%A1%E5%BA%A7%23",
+        "source": "微博热搜",
+        "score": 176083,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 176,083"
+      },
+      {
+        "title": "四川地震",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87",
+        "source": "微博热搜",
+        "score": 176001,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 176,001"
+      },
+      {
+        "title": "疑似王橹杰B站浏览记录",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E6%A9%B9%E6%9D%B0B%E7%AB%99%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%23",
+        "source": "微博热搜",
+        "score": 175929,
+        "time": "10-05 01:10",
+        "label": "热",
+        "category": "trending",
+        "desc": "热度 175,929"
+      },
+      {
+        "title": "内娱请停止老头综艺",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%80%81%E5%A4%B4%E7%BB%BC%E8%89%BA%23",
+        "source": "微博热搜",
+        "score": 175829,
+        "time": "10-05 01:10",
+        "label": "热",
+        "category": "trending",
+        "desc": "热度 175,829"
+      },
+      {
+        "title": "猴子帮女子摘苍耳一脸嫌弃",
+        "url": "https://s.weibo.com/weibo?q=%E7%8C%B4%E5%AD%90%E5%B8%AE%E5%A5%B3%E5%AD%90%E6%91%98%E8%8B%8D%E8%80%B3%E4%B8%80%E8%84%B8%E5%AB%8C%E5%BC%83",
+        "source": "微博热搜",
+        "score": 175742,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 175,742"
+      },
+      {
+        "title": "晋妈称感谢崔晋而非李勒优",
+        "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E5%A6%88%E7%A7%B0%E6%84%9F%E8%B0%A2%E5%B4%94%E6%99%8B%E8%80%8C%E9%9D%9E%E6%9D%8E%E5%8B%92%E4%BC%98",
+        "source": "微博热搜",
+        "score": 175673,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 175,673"
+      },
+      {
+        "title": "高知家庭养出营养不良娃",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E7%9F%A5%E5%AE%B6%E5%BA%AD%E5%85%BB%E5%87%BA%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%E5%A8%83",
+        "source": "微博热搜",
+        "score": 175610,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 175,610"
+      },
+      {
+        "title": "檀健次生日工作室发文",
+        "url": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%94%9F%E6%97%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87",
+        "source": "微博热搜",
+        "score": 175552,
+        "time": "10-05 01:10",
         "label": "新",
         "category": "trending",
-        "desc": "热度 102,412"
+        "desc": "热度 175,552"
+      },
+      {
+        "title": "一诺采访",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E9%87%87%E8%AE%BF",
+        "source": "微博热搜",
+        "score": 157635,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 157,635"
+      },
+      {
+        "title": "教你一招彻底删除隐私记录",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B%E5%BD%BB%E5%BA%95%E5%88%A0%E9%99%A4%E9%9A%90%E7%A7%81%E8%AE%B0%E5%BD%95%23",
+        "source": "微博热搜",
+        "score": 156936,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 156,936"
+      },
+      {
+        "title": "吴宜泽再夺一冠",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%86%8D%E5%A4%BA%E4%B8%80%E5%86%A0%23",
+        "source": "微博热搜",
+        "score": 156834,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 156,834"
+      },
+      {
+        "title": "德约阻止兹维列夫冲击世界第一",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E9%98%BB%E6%AD%A2%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23",
+        "source": "微博热搜",
+        "score": 155804,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 155,804"
+      },
+      {
+        "title": "主角被夺舍亲近之人怎会看不出",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%E8%A2%AB%E5%A4%BA%E8%88%8D%E4%BA%B2%E8%BF%91%E4%B9%8B%E4%BA%BA%E6%80%8E%E4%BC%9A%E7%9C%8B%E4%B8%8D%E5%87%BA",
+        "source": "微博热搜",
+        "score": 155253,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 155,253"
+      },
+      {
+        "title": "AG战胜RW",
+        "url": "https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CRW",
+        "source": "微博热搜",
+        "score": 154195,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 154,195"
+      },
+      {
+        "title": "男生描述喜欢的女生很少提性格",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F%E6%8F%8F%E8%BF%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E5%BE%88%E5%B0%91%E6%8F%90%E6%80%A7%E6%A0%BC",
+        "source": "微博热搜",
+        "score": 153543,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 153,543"
+      },
+      {
+        "title": "王橹杰B站账号澄清",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0B%E7%AB%99%E8%B4%A6%E5%8F%B7%E6%BE%84%E6%B8%85%23",
+        "source": "微博热搜",
+        "score": 153141,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 153,141"
+      },
+      {
+        "title": "研二女生坠楼疑因导师压力",
+        "url": "https://s.weibo.com/weibo?q=%E7%A0%94%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%9D%A0%E6%A5%BC%E7%96%91%E5%9B%A0%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B",
+        "source": "微博热搜",
+        "score": 152721,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 152,721"
+      },
+      {
+        "title": "江苏惊现日本小镰仓",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E6%83%8A%E7%8E%B0%E6%97%A5%E6%9C%AC%E5%B0%8F%E9%95%B0%E4%BB%93",
+        "source": "微博热搜",
+        "score": 139500,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 139,500"
+      },
+      {
+        "title": "张桂源发了9分钟vlog",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E5%8F%91%E4%BA%869%E5%88%86%E9%92%9Fvlog%23",
+        "source": "微博热搜",
+        "score": 135310,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 135,310"
+      },
+      {
+        "title": "一诺艾琳三连决胜",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E8%89%BE%E7%90%B3%E4%B8%89%E8%BF%9E%E5%86%B3%E8%83%9C%23",
+        "source": "微博热搜",
+        "score": 135031,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 135,031"
+      },
+      {
+        "title": "高市早苗称已向美国提出强烈抗议",
+        "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E5%B7%B2%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%23",
+        "source": "微博热搜",
+        "score": 132971,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 132,971"
+      },
+      {
+        "title": "跳水金牌榜张家齐排在第四",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B0%B4%E9%87%91%E7%89%8C%E6%A6%9C%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%8E%92%E5%9C%A8%E7%AC%AC%E5%9B%9B%23",
+        "source": "微博热搜",
+        "score": 131240,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 131,240"
+      },
+      {
+        "title": "首尔大规模示威反对李在明",
+        "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E5%B0%94%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81%E5%8F%8D%E5%AF%B9%E6%9D%8E%E5%9C%A8%E6%98%8E",
+        "source": "微博热搜",
+        "score": 130938,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 130,938"
+      },
+      {
+        "title": "刘雯亮相MiuMiu春夏秀",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E4%BA%AE%E7%9B%B8MiuMiu%E6%98%A5%E5%A4%8F%E7%A7%80",
+        "source": "微博热搜",
+        "score": 130232,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 130,232"
+      },
+      {
+        "title": "梓渝偶遇",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%93%E6%B8%9D%E5%81%B6%E9%81%87",
+        "source": "微博热搜",
+        "score": 129876,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 129,876"
+      },
+      {
+        "title": "张家齐为我的乳腺负责了",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%B8%BA%E6%88%91%E7%9A%84%E4%B9%B3%E8%85%BA%E8%B4%9F%E8%B4%A3%E4%BA%86%23",
+        "source": "微博热搜",
+        "score": 123547,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 123,547"
+      },
+      {
+        "title": "华伦天奴大秀",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80",
+        "source": "微博热搜",
+        "score": 112840,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 112,840"
+      },
+      {
+        "title": "姚琛部落选了王一博的无感",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E9%83%A8%E8%90%BD%E9%80%89%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E6%97%A0%E6%84%9F%23",
+        "source": "微博热搜",
+        "score": 108946,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 108,946"
+      },
+      {
+        "title": "长江的鱼多到成为四川景点",
+        "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%B1%9F%E7%9A%84%E9%B1%BC%E5%A4%9A%E5%88%B0%E6%88%90%E4%B8%BA%E5%9B%9B%E5%B7%9D%E6%99%AF%E7%82%B9",
+        "source": "微博热搜",
+        "score": 100749,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 100,749"
+      },
+      {
+        "title": "韩路称烤串店开业遭遇新型骚扰",
+        "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B7%AF%E7%A7%B0%E7%83%A4%E4%B8%B2%E5%BA%97%E5%BC%80%E4%B8%9A%E9%81%AD%E9%81%87%E6%96%B0%E5%9E%8B%E9%AA%9A%E6%89%B0%23",
+        "source": "微博热搜",
+        "score": 94130,
+        "time": "10-05 01:10",
+        "label": "新",
+        "category": "trending",
+        "desc": "热度 94,130"
+      },
+      {
+        "title": "鞠婧祎曾舜晞 七星彩",
+        "url": "https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%9B%BE%E8%88%9C%E6%99%9E%20%E4%B8%83%E6%98%9F%E5%BD%A9",
+        "source": "微博热搜",
+        "score": 92400,
+        "time": "10-05 01:10",
+        "label": "",
+        "category": "trending",
+        "desc": "热度 92,400"
       }
     ]
   }
