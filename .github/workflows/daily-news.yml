@@ -16,6 +16,11 @@ on:
 permissions:
   contents: write
 
+# 与股价更新等工作流共用同一组，避免 00:00 两个定时任务并发 push 冲突
+concurrency:
+  group: repo-content-writes
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -59,9 +64,10 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add docs/
-          git stash
-          git pull --rebase origin main
-          git stash pop
-          git add docs/
-          git diff --staged --quiet || git commit -m "📰 日知录更新 $(date +'%Y-%m-%d %H:%M') CST"
-          git push
+          if git diff --staged --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "📰 日知录更新 $(date +'%Y-%m-%d %H:%M') CST"
+            git pull --rebase origin main
+            git push
+          fi

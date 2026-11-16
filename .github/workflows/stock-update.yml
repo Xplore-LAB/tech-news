@@ -1,5 +1,6 @@
 name: 股价更新（每2小时）
 
+# 可选：账单锁定期间若不想持续收到失败通知，把下面 schedule 两行注释掉（保留 workflow_dispatch），解锁后取消注释即可恢复。
 on:
   schedule:
     - cron: '0 */2 * * *'  # 每2小时
@@ -7,6 +8,11 @@ on:
 
 permissions:
   contents: write
+
+# 与日知录更新共用同一组，避免 00:00 两个定时任务并发 push 冲突
+concurrency:
+  group: repo-content-writes
+  cancel-in-progress: false
 
 jobs:
   update-stocks:
